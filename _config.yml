@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Monir Bounadi"
   avatar           : "/assets/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Experienced teaching fellow with degrees in econometrics, philosophy and mathematics. Interests include but are not limited to development economics and effective altruism."
+  bio              : "Experienced teaching fellow with degrees in econometrics, mathematics and philosophy."
   location         : "Sweden, Stockholm"
   email            : "monir.bounadi@gmail.com"
   links:
