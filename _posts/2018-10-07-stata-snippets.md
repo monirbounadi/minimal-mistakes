@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Stata Snippets"
 categories: 
   - Stata
