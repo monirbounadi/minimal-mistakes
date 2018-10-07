@@ -104,7 +104,7 @@ author:
   name             : "Monir Bounadi"
   avatar           : "/assets/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Experienced teaching fellow with degrees in econometrics, mathematics and philosophy."
-  location         : "Sweden, Stockholm"
+  location         : "Stockholm, Sweden"
   email            : "monir.bounadi@gmail.com"
   links:
     - label: "Email"
