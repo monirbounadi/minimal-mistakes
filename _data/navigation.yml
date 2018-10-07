@@ -1,6 +1,6 @@
 # main links
 main:
-   - title: "About Me"
+   - title: "About"
      url: /_pages/about/
    - title: "Teaching"
      url: /_pages/teaching/
