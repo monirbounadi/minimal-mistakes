@@ -1,9 +1,7 @@
 ---
 title:  "Stata Snippets"
 categories: 
-  - Jekyll
-tags:
-  - update
+  - Stata
 ---
 
 Here I may add Stata Snippets:
