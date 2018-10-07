@@ -1,8 +1,8 @@
 # main links
 main:
    - title: "About"
-     url: /_pages/about/
+     url: /about/
    - title: "Teaching"
-     url: /_pages/teaching/
+     url: /teaching/
    - title: "Blog"
-     url: /_pages/blog/
+     url: /blog/
