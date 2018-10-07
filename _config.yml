@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Monir Bounadi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a mathematician and econometrician working with various research projects."
   location         : "Sweden, Stockholm"
   email            : "monir.bounadi@gmail.com"
