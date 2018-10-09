@@ -6,18 +6,18 @@ last_modified_at: 2018-10-09
 
 ## Monir Bounadi 
 
-> ##### Stockholm 120 79, Sweden 
-> ##### :telephone_receiver: Cell: +46 (0)76 274 21 69
-> ##### E-mail: [monir.bounadi@gmail.com ][email]
-> ##### Date of Birth: 23 September, 1992
+> #### :house_with_garden: Maltgatan 12, Stockholm 120 79, Sweden 
+> #### :telephone_receiver +46 (0)76 274 21 69
+> #### :email: [monir.bounadi@gmail.com ][email]
+> #### :birthday: 23 September, 1992
 
-### Degrees
+> ### Degrees
 
 - MSc, Econometrics, Stockholm University
 - BA, Theoretical Philosophy, Stockholm University 
 - MSc, Mathematics, Stockholm University
 
-### Courses
+> ### Courses Extra to the Degrees
 
 - Mathematical Statistics, 75 ECTS, Stockholm University
 - Computer Science, 30 ECTS, KTH Royal Institue of Technology and Uppsala University
@@ -26,14 +26,14 @@ last_modified_at: 2018-10-09
 - Didactics, 2.5 ECTS, KTH Royal Institue of Technology
 - Data Science, 14 Course Certificates, DataCamp
 
-### Employment 
+> ### Employment 
 
-- Amanuensis, Department of Economics, Stockholm University &emsp; <small>*2015---*</small>
+- Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015---*</small>
 - Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017---*</small>
 - Research Assistant, Ratio, &emsp; <small>Summer 2017</small>
 - Teaching Assistant, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*June 2015*</small>
 
-### Teaching 
+> ### Teaching 
 
 * __2018/2019__
 	* __Stockholm University__
@@ -74,38 +74,38 @@ last_modified_at: 2018-10-09
 		* *First level*
 			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
 
-### Prizes
+> ### Prizes
 
 - Scholarship for Excellent Master's Thesis in Mathematics 2015 from Institut Mittag-Leffler
 
-### Publications
+> ### Publications
 
 1. Bounadi, M (2018), Weather and Conflicts in Afghanistan, EBA Working Paper, Expert Group for Aid Studies, Sweden.
 2. Bounadi, M (2017), Bör mainstreamekonomin reformeras?, *Ekonomisk Debatt*, 45(3), 70--74.
 
-### Presentations
+> ### Presentations
 
 - Weather and Conflicts in Afghanistan, Expert Group for Aid Studies, Stockholm <small>*August 2018*</small>
 
-### Extracurricular Activity
+> ### Extracurricular Activity
 
 - Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Member, The Student Council of Philosophy, Stockholm University <small>*2014---2015*</small>
 
-### Computer Skills
+> ### Computer Skills
 
 - __Advanced__ &emsp; LaTeX, R, Stata
 - __Intermediate__ &emsp; ArcGis, Markdown, Python
 - __Basic__ &emsp; Batch Scripting, Conda, Git, EViews, HTML, Jekyll, MATLAB, Polopoly, SAS, Scheme, Shell Scripting, SQL, Mathematica
 
-### Languages
+> ### Languages
 
 - __Swedish__ &emsp; First language
 - __English__ &emsp; Proficient user
 - __Maghrebi Arabic__ &emsp; Second language
 
-### Community Service
+> ### Community Service
 
 - Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009---2010*</small>
 
