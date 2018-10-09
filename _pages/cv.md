@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 last_modified_at: 2018-10-09
 ---
 
-[<i class="fas fa-file-pdf"></i> Download CV][cv-pdf]
+<i class="fas fa-file-pdf"></i> [Download CV][cv-pdf]
 
 ## Monir Bounadi
 
