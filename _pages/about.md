@@ -11,7 +11,7 @@ last_modified_at: 2018-10-09
 - :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
 - :house: Maltgatan 12, Stockholm 120 79, Sweden 
 - :iphone: +46 (0)76 274 21 69
-- :email: [monir.bounadi@gmail.com ][email]
+- :e-mail: [monir.bounadi@gmail.com ][email]
 - :birthday: 23 September, 1992
 
 > ### Degrees
