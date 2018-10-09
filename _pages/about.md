@@ -48,7 +48,8 @@ last_modified_at: 2018-10-09
 			* MT4001 Statistical Analysis, 7.5 ECTS
 			* MT3001 Probability Theory I, 7.5 ECTS 
 	* __Military Academy Karlberg__
-		* Preparatory Mathematics for Studies in Military Technology
+		* *First level*
+			* Preparatory Mathematics for Studies in Military Technology
 * __2017/2018__
 	* __Stockholm University__
 		* *Advanced level*
@@ -90,7 +91,7 @@ last_modified_at: 2018-10-09
 
 - Weather and Conflicts in Afghanistan, Expert Group for Aid Studies, Stockholm <small>*August 2018*</small>
 
-> ### Extracurricular Activity
+> ### Extracurricular Activities
 
 - Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
