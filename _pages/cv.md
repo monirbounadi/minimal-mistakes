@@ -6,6 +6,8 @@ last_modified_at: 2018-10-09
 
 [:page_facing_up: Download CV][cv-pdf]
 
+TEST: <i class="fas fa-file-pdf"></i>
+
 ## Monir Bounadi
 
 > ### Personal
