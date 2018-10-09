@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 last_modified_at: 2018-10-09
 ---
 
-[Download CV][cv-pdf] {% octicon file-pdf %}
+[Download CV][cv-pdf]
 
 ## Monir Bounadi
 
