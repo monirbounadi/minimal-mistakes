@@ -115,5 +115,5 @@ last_modified_at: 2018-10-09
 
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [email]: mailto:monir.bounadi@gmail.com 
-[bounadi2017]: {{ site.url }}/assets/publications/bounadi2017.pdf
-[bounadi2018]: {{ site.url }}/assets/publications/bounadi2018.pdf
+[bounadi2017]: /assets/publications/bounadi2017.pdf
+[bounadi2018]: /assets/publications/bounadi2018.pdf
