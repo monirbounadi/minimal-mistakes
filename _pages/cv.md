@@ -4,6 +4,8 @@ title: "Curriculum Vitae"
 last_modified_at: 2018-10-09
 ---
 
+[Download CV.][cv-pdf]
+
 ## Monir Bounadi
 
 > ### Personal
@@ -121,3 +123,4 @@ last_modified_at: 2018-10-09
 [email]: mailto:monir.bounadi@gmail.com
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
+[cv-pdf]: {{ site.url }}/monirbounadi/assets/personal/cv-mb.pdf

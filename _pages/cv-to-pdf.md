@@ -2,11 +2,11 @@
 
 > ### Personal
 
-- :globe_with_meridians: https://monirbounadi.github.io/monirbounadi
-- :house: Maltgatan 12, Stockholm 120 79, Sweden 
-- :iphone: +46 762 74 21 69
-- :e-mail: monir.bounadi@gmail.com
-- :birthday: 23 September, 1992
+- Personal site: monirbounadi.github.io/monirbounadi
+- Address: Maltgatan 12, Stockholm 120 79, Sweden 
+- Tel.: +46 762 74 21 69
+- Email: monir.bounadi@gmail.com
+- Date of Birth: 23 September, 1992
 
 > ### Degrees
 
@@ -25,9 +25,9 @@
 
 > ### Employment 
 
-- Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015--*</small>
-- Research Assistant, Department of Economics, Stockholm University &emsp; <small>*2018--*</small>
-- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017--*</small>
+- Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015—*</small>
+- Research Assistant, Department of Economics, Stockholm University &emsp; <small>*2018—*</small>
+- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017—*</small>
 - Investigator, Expert Group for Aid Studies, Stockholm &emsp; <small>*2018*</small>
 - Master's Thesis Internship, Expert Group for Aid Studies, Stockholm &emsp; <small>*2018*</small>
 - Research Assistant, The Ratio Institute &emsp; <small>2017</small>
@@ -82,7 +82,7 @@
 > ### Publications
 
 1. Bounadi, M (2018), Weather and Conflicts in Afghanistan, EBA Working Paper, *Expert Group for Aid Studies*, Sweden.
-2. Bounadi, M (2017), Bör mainstreamekonomin reformeras?, *Ekonomisk Debatt*, 45(3), 70--74.
+2. Bounadi, M (2017), Bör mainstreamekonomin reformeras?, *Ekonomisk Debatt*, 45(3), 70—74.
 
 > ### Presentations
 
@@ -92,7 +92,7 @@
 
 - Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
-- Member, The Student Council of Philosophy, Stockholm University <small>*2014--2015*</small>
+- Member, The Student Council of Philosophy, Stockholm University <small>*2014—2015*</small>
 
 > ### Computer Skills
 
@@ -108,4 +108,4 @@
 
 > ### Community Service
 
-- Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009--2010*</small>
+- Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009—2010*</small>
