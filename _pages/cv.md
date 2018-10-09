@@ -8,7 +8,7 @@ last_modified_at: 2018-10-09
 
 ## Monir Bounadi
 
-> ### Personal
+### Personal
 
 - <i class="fas fa-birthday-cake"></i> 23 September 1992
 - <i class="fas fa-home"></i> Maltgatan 12, Stockholm 120 79, Sweden 
@@ -16,13 +16,13 @@ last_modified_at: 2018-10-09
 - [<i class="fas fa-at"></i> monir.bounadi@gmail.com][email]
 - [<i class="fas fa-globe"></i> monirbounadi.github.io/monirbounadi][homepage]
 
-> ### Degrees
+### Degrees
 
 - M.Sc. in Econometrics, Stockholm University &emsp; <small>*2018*</small>
 - B.A. in Theoretical Philosophy, Stockholm University &emsp; <small>*2016*</small>
 - M.Sc. in Mathematics, Stockholm University &emsp; <small>*2015*</small>
 
-> ### Extra Courses
+### Extra Courses
 
 - Mathematical Statistics, 75 ECTS, Stockholm University
 - Computer Science, 30 ECTS, KTH Royal Institue of Technology and Uppsala University
@@ -31,7 +31,7 @@ last_modified_at: 2018-10-09
 - Didactics, 2.5 ECTS, KTH Royal Institue of Technology
 - Data Science, 14 Course Certificates, DataCamp
 
-> ### Employment 
+### Employment 
 
 - Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015--*</small>
 - Research Assistant, Department of Economics, Stockholm University &emsp; <small>*2018--*</small>
@@ -41,7 +41,7 @@ last_modified_at: 2018-10-09
 - Research Assistant, The Ratio Institute &emsp; <small>2017</small>
 - Exam Assessor in SF1674 Multivariable Calculus, 7.5 ECTS, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*2015*</small>
 
-> ### Teaching 
+### Teaching 
 
 * __2018/2019__
 	* __Stockholm University__
@@ -83,38 +83,38 @@ last_modified_at: 2018-10-09
 		* *First level*
 			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
 
-> ### Awards
+### Awards
 
 - Scholarship for Excellent Master's Thesis in Mathematics 2015 from Institut Mittag-Leffler
 
-> ### Publications
+### Publications
 
 1. Bounadi, M (2018), [Weather and Conflicts in Afghanistan][bounadi2018], EBA Working Paper, *Expert Group for Aid Studies*, Sweden.
 2. Bounadi, M (2017), [Bör mainstreamekonomin reformeras?][bounadi2017], *Ekonomisk Debatt*, 45(3), 70--74.
 
-> ### Presentations
+### Presentations
 
 - Dåligt väder och konflikter i Afghanistan, Expert Group for Aid Studies, Stockholm <small>*August 2018*</small>
 
-> ### Extracurricular Activities
+### Extracurricular Activities
 
 - Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Member, The Student Council of Philosophy, Stockholm University <small>*2014--2015*</small>
 
-> ### Computer Skills
+### Computer Skills
 
 - __Advanced__ &emsp; LaTeX, R, Stata
 - __Intermediate__ &emsp; ArcGis, Markdown, Python
 - __Basic__ &emsp; Batch Scripting, Conda, Git, EViews, HTML, Jekyll, MATLAB, Polopoly, SAS, Scheme, Shell Scripting, Spreadsheets, SQL, Mathematica
 
-> ### Languages
+### Languages
 
 - __Swedish__ &emsp; First language
 - __English__ &emsp; Proficient user
 - __Maghrebi Arabic__ &emsp; Second language
 
-> ### Community Service
+### Community Service
 
 - Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009--2010*</small>
 
