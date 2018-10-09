@@ -10,7 +10,7 @@ last_modified_at: 2018-10-09
 
 > ### Personal
 
-- :birthday: 23 September, 1992
+- :birthday: 23 September 1992
 - :house: Maltgatan 12, Stockholm 120 79, Sweden 
 - [:iphone: +46 762 74 21 69][tel]
 - [:e-mail: monir.bounadi@gmail.com][email]
