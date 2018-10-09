@@ -4,4 +4,109 @@ title: "About"
 last_modified_at: 2018-10-07
 ---
 
-I was born in 1992 and grew up in a suburb in Stockholm, Sweden.
+# Monir Bounadi 
+
+> ##### Stockholm 120 79, Sweden 
+> ##### Cell: +46 (0)76 274 21 69
+> ##### E-mail: [monir.bounadi@gmail.com ][email]
+> ##### Date of Birth: 23 September, 1992
+
+### Degrees
+
+- MSc, Econometrics, Stockholm University
+- BA, Theoretical Philosophy, Stockholm University 
+- MSc, Mathematics, Stockholm University
+
+### Courses
+
+- Mathematical Statistics, 75 ECTS, Stockholm University
+- Computer Science, 30 ECTS, KTH Royal Institue of Technology and Uppsala University
+- Statistics, 30 ECTS, Stockholm University 
+- Practical Philosophy, 15 ECTS, Stockholm University 
+- Didactics, 2.5 ECTS, KTH Royal Institue of Technology
+- Data Science, 14 Course Certificates, DataCamp
+
+### Employment 
+
+- Amanuensis, Department of Economics, Stockholm University &emsp; <small>*2015---Current*</small>
+- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017---Current*</small>
+- Research Assistant, Ratio, &emsp; <small>Summer 2017</small>
+- Teaching Assistant, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*June 2015*</small>
+
+### Teaching 
+
+* __2018/2019__
+	* __Stockholm University__
+		* *First level*
+			* MT4002 Stochastic Processes and Simulation I, 7.5 ECTS 
+			* MT4001 Statistical Analysis, 7.5 ECTS
+			* MT3001 Probability Theory I, 7.5 ECTS 
+		* *Advanced level*
+			* EC7413 Econometrics 3b: Time Series Data, 7.5 ECTS
+			* EC7401 Econometrics I, 7.5 ECTS 
+	* __Military Academy Karlberg__
+		* Preparatory Mathematics for Studies in Military Technology
+* __2017/2018__
+	* __Stockholm University__
+		* *First level*
+			* MT4002 Stochastic Processes and Simulation I, 7.5 ECTS 
+			* MT4001 Statistical Analysis, 7.5 ECTS
+			* MT3001 Probability Theory I, 7.5 ECTS 
+			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
+		* *Advanced level*
+			* EC7413 Econometrics 3b: Time Series Data, 7.5 ECTS
+			* EC7401 Econometrics I, 7.5 ECTS 
+* __2016/2017__
+	* __Stockholm University__
+		* *First level*
+			* MM2001 Mathematics I, 30 ECTS
+			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
+* __2015/2016__
+	* __Stockholm University__
+		* *First level*
+			* MM4001 Mathematics for the Natural Sciences II, 15 ECTS 
+			* MM3001 Mathematical Methods for Economists, 7.5 ECTS 
+			* MM2002 Mathematics for the Natural Sciences I, 15 ECTS 
+			* MM2001 Mathematics I, 30 ECTS
+			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
+* __2015/2016__
+	* __Stockholm University__
+		* *First level*
+			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
+
+### Prizes
+
+- Scholarship for Excellent Master's Thesis in Mathematics 2015 from Institut Mittag-Leffler
+
+### Publications
+
+1. Bounadi, M (2018), Weather and Conflicts in Afghanistan, EBA Working Paper, Expert Group for Aid Studies, Sweden.
+2. Bounadi, M (2017), Bör mainstreamekonomin reformeras?, *Ekonomisk Debatt*, 45(3), 70--74.
+
+### Presentations
+
+- Weather and Conflicts in Afghanistan, Expert Group for Aid Studies, Stockholm <small>*August 2018*</small>
+
+### Extracurricular activity
+
+- Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
+- Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
+- Member, The Student Council of Philosophy, Stockholm University <small>*2014---2015*</small>
+
+### Computer Skills
+
+- __Advanced__ &emsp; LaTeX, R, Stata
+- __Intermediate__ &emsp; ArcGis, Markdown, Python
+- __Basic__ &emsp; Batch Scripting, Conda, Git, EViews, HTML, Jekyll, MATLAB, Polopoly, SAS, Scheme, Shell Scripting, SQL, Mathematica
+
+### Languages
+
+- __Swedish__ &emsp; First language
+- __English__ &emsp; Proficient user
+- __Maghrebi Arabic__ &emsp; Second language
+
+### Community Service
+
+- Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009---2010*</small>
+
+[email]: mailto:monir.bounadi@gmail.com 
