@@ -10,7 +10,7 @@ last_modified_at: 2018-10-09
 
 - :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
 - :house: Maltgatan 12, Stockholm 120 79, Sweden 
-- :iphone: [+46 762 74 21 69](tel: +46 762 74 21 69)
+- :iphone: [+46 762 74 21 69][tel]
 - :e-mail: [monir.bounadi@gmail.com ][email]
 - :birthday: 23 September, 1992
 
@@ -20,7 +20,7 @@ last_modified_at: 2018-10-09
 - B.A. in Theoretical Philosophy, Stockholm University &emsp; <small>*2016*</small>
 - M.Sc. in Mathematics, Stockholm University &emsp; <small>*2015*</small>
 
-> ### Courses Extra to Degrees
+> ### Education Extra to Degrees
 
 - Mathematical Statistics, 75 ECTS, Stockholm University
 - Computer Science, 30 ECTS, KTH Royal Institue of Technology and Uppsala University
@@ -101,7 +101,7 @@ last_modified_at: 2018-10-09
 
 - __Advanced__ &emsp; LaTeX, R, Stata
 - __Intermediate__ &emsp; ArcGis, Markdown, Python
-- __Basic__ &emsp; Batch Scripting, Conda, Git, EViews, HTML, Jekyll, MATLAB, Polopoly, SAS, Scheme, Shell Scripting, SQL, Mathematica
+- __Basic__ &emsp; Batch Scripting, Conda, Git, EViews, HTML, Jekyll, MATLAB, Polopoly, SAS, Scheme, Shell Scripting, Spreadsheets, SQL, Mathematica
 
 > ### Languages
 
@@ -114,6 +114,7 @@ last_modified_at: 2018-10-09
 - Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009---2010*</small>
 
 [homepage]: https://monirbounadi.github.io/monirbounadi
+[tel]: tel: +46 762 74 21 69
 [email]: mailto:monir.bounadi@gmail.com 
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
