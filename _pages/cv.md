@@ -1,16 +1,16 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /cv/
+title: "Curriculum Vitae"
 last_modified_at: 2018-10-09
 ---
 
-## Monir Bounadi 
+## Monir Bounadi
 
 > ### Personal Information
 
 - :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
 - :house: Maltgatan 12, Stockholm 120 79, Sweden 
-- :iphone: +46 (0)76 274 21 69
+- :iphone: [+46 762 74 21 69](tel: +46 762 74 21 69)
 - :e-mail: [monir.bounadi@gmail.com ][email]
 - :birthday: 23 September, 1992
 
@@ -115,5 +115,5 @@ last_modified_at: 2018-10-09
 
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [email]: mailto:monir.bounadi@gmail.com 
-[bounadi2017]: /assets/publications/bounadi2017.pdf
-[bounadi2018]: /assets/publications/bounadi2018.pdf
+[bounadi2017]: monirbounadi/assets/publications/bounadi2017.pdf
+[bounadi2018]: monirbounadi/assets/publications/bounadi2018.pdf
