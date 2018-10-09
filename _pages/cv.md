@@ -6,7 +6,7 @@ last_modified_at: 2018-10-09
 
 ## Monir Bounadi
 
-> ### Personal Information
+> ### Personal
 
 - :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
 - :house: Maltgatan 12, Stockholm 120 79, Sweden 
@@ -16,9 +16,9 @@ last_modified_at: 2018-10-09
 
 > ### Degrees
 
-- MSc, Econometrics, Stockholm University &emsp; <small>*2018*</small>
-- BA, Theoretical Philosophy, Stockholm University &emsp; <small>*2016*</small>
-- MSc, Mathematics, Stockholm University &emsp; <small>*2015*</small>
+- M.Sc. in Econometrics, Stockholm University &emsp; <small>*2018*</small>
+- B.A. in Theoretical Philosophy, Stockholm University &emsp; <small>*2016*</small>
+- M.Sc. in Mathematics, Stockholm University &emsp; <small>*2015*</small>
 
 > ### Courses Extra to Degrees
 
@@ -78,7 +78,7 @@ last_modified_at: 2018-10-09
 		* *First level*
 			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
 
-> ### Prizes
+> ### Awards
 
 - Scholarship for Excellent Master's Thesis in Mathematics 2015 from Institut Mittag-Leffler
 
@@ -115,5 +115,5 @@ last_modified_at: 2018-10-09
 
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [email]: mailto:monir.bounadi@gmail.com 
-[bounadi2017]: monirbounadi/assets/publications/bounadi2017.pdf
-[bounadi2018]: monirbounadi/assets/publications/bounadi2018.pdf
+[bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
+[bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
