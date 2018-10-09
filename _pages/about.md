@@ -84,8 +84,8 @@ last_modified_at: 2018-10-09
 
 > ### Publications
 
-1. Bounadi, M (2018), [Weather and Conflicts in Afghanistan][bounadi2018], EBA Working Paper, Expert Group for Aid Studies, Sweden.
-2. Bounadi, M (2017), Bör mainstreamekonomin reformeras?, *Ekonomisk Debatt*, 45(3), 70--74.
+1. Bounadi, M (2018), [Weather and Conflicts in Afghanistan][bounadi2018], EBA Working Paper, *Expert Group for Aid Studies*, Sweden.
+2. Bounadi, M (2017), [Bör mainstreamekonomin reformeras?][bounadi2017], *Ekonomisk Debatt*, 45(3), 70--74.
 
 > ### Presentations
 
@@ -115,5 +115,5 @@ last_modified_at: 2018-10-09
 
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [email]: mailto:monir.bounadi@gmail.com 
-[bounadi2017]: {{ site.url }}/assets/publications/bounadi2017.pdf)
-[bounadi2018]: {{ site.url }}/assets/publications/bounadi2018.pdf)
+[bounadi2017]: {{ site.url }}/assets/publications/bounadi2017.pdf
+[bounadi2018]: {{ site.url }}/assets/publications/bounadi2018.pdf
