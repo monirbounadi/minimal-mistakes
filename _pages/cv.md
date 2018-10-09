@@ -8,10 +8,10 @@ last_modified_at: 2018-10-09
 
 > ### Personal
 
-- :globe_with_meridians: [monirbounadi.github.io/monirbounadi](https://monirbounadi.github.io/monirbounadi)
+- :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
 - :house: Maltgatan 12, Stockholm 120 79, Sweden 
-- :iphone: [+46 762 74 21 69](tel: +46 762 74 21 69)
-- :e-mail: [monir.bounadi@gmail.com ](mailto:monir.bounadi@gmail.com)
+- :iphone: [+46 762 74 21 69][tel]
+- :e-mail: [monir.bounadi@gmail.com ][email]
 - :birthday: 23 September, 1992
 
 > ### Degrees
@@ -31,8 +31,8 @@ last_modified_at: 2018-10-09
 
 > ### Employment 
 
-- Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015---*</small>
-- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017---*</small>
+- Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015--*</small>
+- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017--*</small>
 - Research Assistant, The Ratio Institute &emsp; <small>Summer 2017</small>
 - Teaching Assistant, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*June 2015*</small>
 
@@ -84,8 +84,8 @@ last_modified_at: 2018-10-09
 
 > ### Publications
 
-1. Bounadi, M (2018), [Weather and Conflicts in Afghanistan]({{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf), EBA Working Paper, *Expert Group for Aid Studies*, Sweden.
-2. Bounadi, M (2017), [Bör mainstreamekonomin reformeras?]({{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf), *Ekonomisk Debatt*, 45(3), 70--74.
+1. Bounadi, M (2018), [Weather and Conflicts in Afghanistan][bounadi2018], EBA Working Paper, *Expert Group for Aid Studies*, Sweden.
+2. Bounadi, M (2017), [Bör mainstreamekonomin reformeras?][bounadi2017], *Ekonomisk Debatt*, 45(3), 70--74.
 
 > ### Presentations
 
@@ -95,7 +95,7 @@ last_modified_at: 2018-10-09
 
 - Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
-- Member, The Student Council of Philosophy, Stockholm University <small>*2014---2015*</small>
+- Member, The Student Council of Philosophy, Stockholm University <small>*2014--2015*</small>
 
 > ### Computer Skills
 
@@ -111,4 +111,10 @@ last_modified_at: 2018-10-09
 
 > ### Community Service
 
-- Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009---2010*</small>
+- Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009--2010*</small>
+
+[homepage]: https://monirbounadi.github.io/monirbounadi
+[tel]: tel: +46 762 74 21 69
+[email]: mailto:monir.bounadi@gmail.com
+[bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
+[bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
