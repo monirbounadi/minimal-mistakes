@@ -6,18 +6,21 @@ last_modified_at: 2018-10-09
 
 ## Monir Bounadi 
 
-> #### :house_with_garden: Maltgatan 12, Stockholm 120 79, Sweden 
-> #### :telephone_receiver +46 (0)76 274 21 69
-> #### :email: [monir.bounadi@gmail.com ][email]
-> #### :birthday: 23 September, 1992
+> ### Personal Information
+
+- :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
+- :house_with_garden: Maltgatan 12, Stockholm 120 79, Sweden 
+- :telephone_receiver: +46 (0)76 274 21 69
+- :email: [monir.bounadi@gmail.com ][email]
+- :birthday: 23 September, 1992
 
 > ### Degrees
 
-- MSc, Econometrics, Stockholm University
-- BA, Theoretical Philosophy, Stockholm University 
-- MSc, Mathematics, Stockholm University
+- MSc, Econometrics, Stockholm University &emsp; <small>*2018*</small>
+- BA, Theoretical Philosophy, Stockholm University &emsp; <small>*2016*</small>
+- MSc, Mathematics, Stockholm University &emsp; <small>*2015*</small>
 
-> ### Courses Extra to the Degrees
+> ### Courses Extra to Degrees
 
 - Mathematical Statistics, 75 ECTS, Stockholm University
 - Computer Science, 30 ECTS, KTH Royal Institue of Technology and Uppsala University
@@ -30,7 +33,7 @@ last_modified_at: 2018-10-09
 
 - Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015---*</small>
 - Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017---*</small>
-- Research Assistant, Ratio, &emsp; <small>Summer 2017</small>
+- Research Assistant, The Ratio Institute &emsp; <small>Summer 2017</small>
 - Teaching Assistant, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*June 2015*</small>
 
 > ### Teaching 
@@ -109,4 +112,5 @@ last_modified_at: 2018-10-09
 
 - Assistant Trainer, Boxing Club Dalen, Stockholm <small>*2009---2010*</small>
 
+[homepage]: https://monirbounadi.github.io/monirbounadi
 [email]: mailto:monir.bounadi@gmail.com 
