@@ -9,8 +9,8 @@ last_modified_at: 2018-10-09
 > ### Personal Information
 
 - :globe_with_meridians: [monirbounadi.github.io/monirbounadi][homepage]
-- :house_with_garden: Maltgatan 12, Stockholm 120 79, Sweden 
-- :telephone_receiver: +46 (0)76 274 21 69
+- :house: Maltgatan 12, Stockholm 120 79, Sweden 
+- :iphone: +46 (0)76 274 21 69
 - :email: [monir.bounadi@gmail.com ][email]
 - :birthday: 23 September, 1992
 
