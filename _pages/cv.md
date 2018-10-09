@@ -32,9 +32,12 @@ last_modified_at: 2018-10-09
 > ### Employment 
 
 - Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015--*</small>
+- Research Assistant, Department of Economics, Stockholm University &emsp; <small>*2018--*</small>
 - Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017--*</small>
-- Research Assistant, The Ratio Institute &emsp; <small>Summer 2017</small>
-- Teaching Assistant, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*June 2015*</small>
+- Investigator, Expert Group for Aid Studies, Stockholm &emsp; <small>*2018*</small>
+- Master's Thesis Internship, Expert Group for Aid Studies, Stockholm &emsp; <small>*2018*</small>
+- Research Assistant, The Ratio Institute &emsp; <small>2017</small>
+- Exam Assessor in SF1674 Multivariable Calculus, 7.5 ECTS, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*2015*</small>
 
 > ### Teaching 
 
