@@ -4,19 +4,17 @@ title: "Curriculum Vitae"
 last_modified_at: 2018-10-09
 ---
 
-[:page_facing_up: Download CV][cv-pdf]
-
-TEST: <i class="fas fa-file-pdf"></i>
+[<i class="fas fa-file-pdf"></i> Download CV][cv-pdf]
 
 ## Monir Bounadi
 
 > ### Personal
 
-- :birthday: 23 September 1992
-- :house: Maltgatan 12, Stockholm 120 79, Sweden 
-- [:iphone: +46 762 74 21 69][tel]
-- [:e-mail: monir.bounadi@gmail.com][email]
-- [:globe_with_meridians: monirbounadi.github.io/monirbounadi][homepage]
+- <i class="fas fa-birthday-cake"></i> 23 September 1992
+- <i class="fas fa-home"></i> Maltgatan 12, Stockholm 120 79, Sweden 
+- [<i class="fas fa-mobile-alt"></i> +46 762 74 21 69][tel]
+- [<i class="fas fa-at"></i> monir.bounadi@gmail.com][email]
+- [<i class="fas fa-globe"></i> monirbounadi.github.io/monirbounadi][homepage]
 
 > ### Degrees
 
