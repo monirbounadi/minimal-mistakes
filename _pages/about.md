@@ -1,13 +1,13 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2018-10-07
+last_modified_at: 2018-10-09
 ---
 
-# Monir Bounadi 
+## Monir Bounadi 
 
 > ##### Stockholm 120 79, Sweden 
-> ##### Cell: +46 (0)76 274 21 69
+> ##### :telephone_receiver: Cell: +46 (0)76 274 21 69
 > ##### E-mail: [monir.bounadi@gmail.com ][email]
 > ##### Date of Birth: 23 September, 1992
 
@@ -28,8 +28,8 @@ last_modified_at: 2018-10-07
 
 ### Employment 
 
-- Amanuensis, Department of Economics, Stockholm University &emsp; <small>*2015---Current*</small>
-- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017---Current*</small>
+- Amanuensis, Department of Economics, Stockholm University &emsp; <small>*2015---*</small>
+- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017---*</small>
 - Research Assistant, Ratio, &emsp; <small>Summer 2017</small>
 - Teaching Assistant, Department of Mathematics, KTH Royal Institute of Technology &emsp; <small>*June 2015*</small>
 
@@ -37,25 +37,25 @@ last_modified_at: 2018-10-07
 
 * __2018/2019__
 	* __Stockholm University__
+		* *Advanced level*
+			* EC7413 Econometrics 3b: Time Series Data, 7.5 ECTS
+			* EC7401 Econometrics I, 7.5 ECTS 
 		* *First level*
 			* MT4002 Stochastic Processes and Simulation I, 7.5 ECTS 
 			* MT4001 Statistical Analysis, 7.5 ECTS
 			* MT3001 Probability Theory I, 7.5 ECTS 
-		* *Advanced level*
-			* EC7413 Econometrics 3b: Time Series Data, 7.5 ECTS
-			* EC7401 Econometrics I, 7.5 ECTS 
 	* __Military Academy Karlberg__
 		* Preparatory Mathematics for Studies in Military Technology
 * __2017/2018__
 	* __Stockholm University__
+		* *Advanced level*
+			* EC7413 Econometrics 3b: Time Series Data, 7.5 ECTS
+			* EC7401 Econometrics I, 7.5 ECTS 
 		* *First level*
 			* MT4002 Stochastic Processes and Simulation I, 7.5 ECTS 
 			* MT4001 Statistical Analysis, 7.5 ECTS
 			* MT3001 Probability Theory I, 7.5 ECTS 
 			* MM1003 Introductory Course in Mathematics, 7.5 ECTS 
-		* *Advanced level*
-			* EC7413 Econometrics 3b: Time Series Data, 7.5 ECTS
-			* EC7401 Econometrics I, 7.5 ECTS 
 * __2016/2017__
 	* __Stockholm University__
 		* *First level*
@@ -87,7 +87,7 @@ last_modified_at: 2018-10-07
 
 - Weather and Conflicts in Afghanistan, Expert Group for Aid Studies, Stockholm <small>*August 2018*</small>
 
-### Extracurricular activity
+### Extracurricular Activity
 
 - Vice President, The Council of the Faculty of Arts, Stockholm University <small>*2015*</small>
 - Student Representative, The Board of the Faculty of Arts, Stockholm University <small>*2015*</small>
