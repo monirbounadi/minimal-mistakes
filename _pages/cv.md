@@ -20,27 +20,27 @@ last_modified_at: 2018-10-09
 
 ### Degrees
 
-- M.Sc., Econometrics, Stockholm University &emsp; <small>*2018*</small>
-- B.A., Theoretical Philosophy, Stockholm University &emsp; <small>*2016*</small>
-- B.Sc., Mathematics, Stockholm University &emsp; <small>*2016*</small>
-- M.Sc., Mathematics, Stockholm University &emsp; <small>*2015*</small>
+- M.Sc., Econometrics, Stockholm University, 2018
+- B.A., Theoretical Philosophy, Stockholm University, 2016
+- B.Sc., Mathematics, Stockholm University, 2016
+- M.Sc., Mathematics, Stockholm University, 2015
 
 ### Employment 
 
-- Amanuensis, Department of Mathematics, Stockholm University &emsp; <small>*2015--*</small>
-- Research Assistant, Department of Economics, Stockholm University &emsp; <small>*2018--*</small>
-- Teaching Assistant, Department of Economics, Stockholm University &emsp; <small>*2017--*</small>
-- Investigator, Expert Group for Aid Studies, Stockholm &emsp; <small>*2018--*</small>
-- Research Assistant, The Ratio Institute &emsp; <small>2017</small>
+- Amanuensis, Department of Mathematics, Stockholm University, 2015--
+- Research Assistant, Department of Economics, Stockholm University, 2018--
+- Teaching Assistant, Department of Economics, Stockholm University, 2017--
+- Investigator, Expert Group for Aid Studies, Stockholm, 2018--
+- Research Assistant, The Ratio Institute, 2017
 
 ### Publications
 
-1. Bounadi, M (2018), [Weather and Conflicts in Afghanistan][bounadi2018], EBA Working Paper, *Expert Group for Aid Studies*, Sweden.
-2. Bounadi, M (2017), [Bör mainstreamekonomin reformeras?][bounadi2017], *Ekonomisk Debatt*, 45(3), 70--74.
+1. Bounadi, M (2018). [Weather and Conflicts in Afghanistan][bounadi2018]. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.
+2. Bounadi, M (2017). [Bör mainstreamekonomin reformeras?][bounadi2017]. *Ekonomisk Debatt 45(3),* 70--74.
 
 ### Awards
 
-- Scholarship for Excellent Master's Thesis in Mathematics 2015 from Institut Mittag-Leffler
+- Scholarship for Excellent Master's Thesis in Mathematics from Institut Mittag-Leffler, 2015
 
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [tel]: tel: +46 762 74 21 69
