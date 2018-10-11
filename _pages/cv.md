@@ -6,7 +6,7 @@ last_modified_at: 2018-10-09
 
 ## Long
 
-<i class="fas fa-file-pdf"></i> Download Long CV (TBA)
+<i class="fas fa-file-pdf"></i> Download (TBA)
 
 ## Short
 
