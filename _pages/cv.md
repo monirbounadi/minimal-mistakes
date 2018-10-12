@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
-last_modified_at: 2018-10-09
+last_modified_at: 2018-10-12
 ---
 
 ## Long
