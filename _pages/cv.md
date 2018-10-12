@@ -25,13 +25,13 @@ last_modified_at: 2018-10-12
 - B.Sc., Mathematics, Stockholm University, 2016
 - M.Sc., Mathematics, Stockholm University, 2015
 
-### Employment 
+### Current Employment 
 
 - Amanuensis, Department of Mathematics, Stockholm University, 2015--
 - Research Assistant, Department of Economics, Stockholm University, 2018--
 - Teaching Assistant, Department of Economics, Stockholm University, 2017--
 - Investigator, Expert Group for Aid Studies, Stockholm, 2018--
-- Research Assistant, The Ratio Institute, 2017
+- Private Tutor in Graduate Econometrics, 2018--
 
 ### Publications
 
@@ -42,9 +42,9 @@ last_modified_at: 2018-10-12
 
 - Scholarship for Excellent Master's Thesis in Mathematics from Institut Mittag-Leffler, 2015
 
-[homepage]: https://monirbounadi.github.io/monirbounadi
 [tel]: tel: +46 762 74 21 69
 [email]: mailto:monir.bounadi@gmail.com
+[homepage]: https://monirbounadi.github.io/monirbounadi
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
 [cv]: {{ site.url }}/monirbounadi/assets/personal/cv.pdf
