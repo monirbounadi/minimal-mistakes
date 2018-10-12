@@ -13,7 +13,7 @@ last_modified_at: 2018-10-12
 ### Personal
 
 - <i class="fas fa-birthday-cake"></i> 23 September 1992
-- <i class="fas fa-home"></i> Maltgatan 12, Stockholm 120 79, Sweden 
+- <i class="fas fa-home"></i> Maltgatan 12, SE 120 79 Stockholm, Sweden 
 - <i class="fas fa-mobile-alt"></i> [+46 762 74 21 69][tel]
 - <i class="fas fa-at"></i> [monir.bounadi@gmail.com][email]
 - <i class="fas fa-globe"></i> [monirbounadi.github.io/monirbounadi][homepage]
