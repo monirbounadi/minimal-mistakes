@@ -6,7 +6,7 @@ last_modified_at: 2018-10-13
 
 ## Bio
 
-I am a teaching fellow and research assistant. In my role I help students and researchers understand and solve statistical problems. 
+I work as a teaching fellow and research assistant. In these roles I help students and researchers understand and solve statistical problems. I am also a student taking graduate courses in statistics and econometrics.
 
 My research interests unifies my interests in ethics and statistics. This includes causal inference to identify effective charitable interventions. It also includes theoretical statistics to help policymakers weight different kinds of evidence.
 
