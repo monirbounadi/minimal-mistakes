@@ -6,7 +6,8 @@ last_modified_at: 2018-10-13
 
 ## Bio
 
-TBA
+I am a teaching fellow and research assistant. In my role I help students and researchers understand and solve statistical problems. 
+My research interests unifies my interests in ethics and statistics. This includes causal inference to identify effective charitable interventions. It also includes theoretical statistics to help policymakers weight different kinds of evidence.
 
 ## Long CV
 
