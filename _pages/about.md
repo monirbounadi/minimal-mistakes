@@ -1,14 +1,18 @@
 ---
-permalink: /cv/
-title: "Curriculum Vitae"
-last_modified_at: 2018-10-12
+permalink: /about/
+title: "About"
+last_modified_at: 2018-10-13
 ---
 
-## Long
+## Bio
+
+TBA
+
+## Long CV
 
 <i class="fas fa-file-pdf"></i> [Download][cv]
 
-## Short
+## Short CV
 
 ### Personal
 

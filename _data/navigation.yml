@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "Curriculum Vitae"
-     url: /cv/
+   - title: "About"
+     url: /about/
    - title: "Teaching"
      url: /teaching/
    - title: "Blog"
