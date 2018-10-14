@@ -10,6 +10,8 @@ I work as a teaching fellow and research assistant. In these roles I help studen
 
 My research interests unifies my interests in ethics and statistics. This includes causal inference to identify effective charitable interventions. It also includes theoretical statistics to help policymakers weight different kinds of evidence.
 
+If I can help you, contact me.
+
 ## Long CV
 
 <i class="fas fa-file-pdf"></i> [Download][cv]
