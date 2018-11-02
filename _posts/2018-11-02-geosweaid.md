@@ -2,6 +2,11 @@
 layout: single
 title: "Mapping Swedish Aid Data"
 date: 2018-11-02
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This Shiny app shows the spatial distribution of Swedish aid activities and disbursements at the national level by year. To the best of my knowledge, this is the first presentation of this kind. 
