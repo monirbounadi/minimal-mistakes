@@ -1,6 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
-comments: true 
+title:  "First post"
 ---
 
 This is a test.
