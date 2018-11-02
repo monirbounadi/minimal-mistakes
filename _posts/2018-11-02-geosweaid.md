@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Mapping Swedish Aid"
+title: "Mapping Swedish Aid Data"
 last_modified_at: 2018-11-02
 ---
 
