@@ -1,13 +1,13 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2018-10-09
+last_modified_at: 2018-11-11
 ---
 
 ## Selected Course Material
 
 Under construction.
 
-## Course Evaluations
+## Teaching Evaluations
 
 Under construction.
