@@ -4,7 +4,11 @@ title: "About"
 last_modified_at: 2018-10-13
 ---
 
-## Bio
+## Long Bio
+
+TBD.
+
+## Short Bio
 
 I work as a teaching fellow and research assistant. In these roles I help students and researchers understand and solve statistical problems. I am also a student taking graduate courses in statistics and econometrics.
 
