@@ -60,7 +60,7 @@ If I can help you, contact me.
 
 ## Personal Bio
 
-My full name is Monir Elias Eliasson Bounadi. My first name and last name are from my father who immigrated from Morocco to Sweden during the 1980s. My middle names are from my Swedish-born mother.
+My full name is Monir Elias Eliasson Bounadi. My first and last name are from my father who immigrated from Morocco to Sweden during the 1980s. My middle names are from my Swedish-born mother.
 
 I grew up in Hammarbyhöjden and Kärrtorp, suburbs south of Södermalm in Stockholm, Sweden. Though I spent most of my time in Stockholm, I spent many summers in Rabat, Morocco. 
 
