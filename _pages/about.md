@@ -64,6 +64,6 @@ My full name is Monir Elias Eliasson Bounadi. My first and last name are from my
 
 I grew up in Hammarbyhöjden and Kärrtorp, suburbs south of Södermalm in Stockholm, Sweden. Though I spent most of my time in Stockholm, I spent many summers in Rabat, Morocco. 
 
-Until 18 my big interests were running, manga, film, and gaming. I was quite a well-trained cineast with expert knowledge in Street Fighter back then. Today I try to entertain my past interests whenever I can. But mainly I live for my love of philosophy and try to channel this love by applying statistical methods to solve problems in social science.
+Until 18 my big interests were running, manga, film, and gaming. I was quite a well-trained cineast with expert knowledge in Street Fighter back then. Today I try to entertain my past interests whenever I can. But mainly I live for my love of philosophy and try to channel this love through statistics.
 
 I am also an effective altruist and spend about 30% of my income (net living expenses) on effective charities. As a strict vegan, I spend some of this on animal charities. I plan to raise my share to 50% by the end of 2019.
