@@ -11,3 +11,7 @@ TBD.
 ## Teaching Evaluations
 
 TBD.
+
+## Teaching Philosophy
+
+TBD.
