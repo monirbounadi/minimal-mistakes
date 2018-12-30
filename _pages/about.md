@@ -10,7 +10,7 @@ I work as a teaching fellow and research assistant. In these roles, I help stude
 
 My research interests unify my interests in ethics and statistics. This includes causal inference to identify effective charitable interventions, and statistics to help policymakers weigh different kinds of evidence.
 
-If I can help you, contact me. F
+If I can help you, contact me. 
 
 ## Long CV
 
@@ -56,7 +56,7 @@ If I can help you, contact me. F
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
-[cv]: {{ site.url }}/monirbounadi/assets/personal/cv.pdf
+[cv]: {{ site.url }}/monirbounadi/assets/personal/BounadiCV.pdf
 
 ## Personal Bio
 
