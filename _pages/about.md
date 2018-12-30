@@ -56,4 +56,4 @@ If I can help you, contact me.
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
-[cv]: {{ site.url }}/monirbounadi/assets/personal/bounadi_cv.pdf
+[cv]: {{ site.url }}/monirbounadi/assets/personal/cv.pdf
