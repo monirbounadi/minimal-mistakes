@@ -1,17 +1,16 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2018-12-30
+last_modified_at: 2018-10-13
 ---
 
 ## Professional Bio
 
 I work as a teaching fellow and research assistant. In these roles, I help students and researchers understand and solve statistical problems. I am also a student taking graduate courses in statistics and econometrics.
 
-My research interests unify my interests in ethics and statistics. For example, causal inference to identify effective charitable interventions, and statistics to help policymakers weigh different kinds of evidence.
+My research interests unify my interests in ethics and statistics. This includes causal inference to identify effective charitable interventions, and statistics to help policymakers weigh different kinds of evidence.
 
-If I can help you, contact me.
-
+If I can help you, contact me. F
 
 ## Long CV
 
@@ -57,4 +56,16 @@ If I can help you, contact me.
 [homepage]: https://monirbounadi.github.io/monirbounadi
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
-[cv]: {{ site.url }}/monirbounadi/assets/personal/BounadiCV.pdf
+[cv]: {{ site.url }}/monirbounadi/assets/personal/cv.pdf
+
+## Personal Bio
+
+My full name is Monir Elias Eliasson Bounadi. My first and last name are from my father who immigrated from Morocco to Sweden during the 1980s. My middle names are from my Swedish-born mother.
+
+I grew up in Hammarbyhöjden and Kärrtorp, suburbs south of Södermalm in Stockholm, Sweden. Though I spent most of my time in Stockholm, I spent many summers in Rabat, Morocco. 
+
+I had a complicated childhood and adolescence in both Stockholm and Rabat. The income of my father and mother came from the black market and the Swedish welfare state. For that reason, I had little to enjoy and eat after school.  My father and mother separated when I was 2. Then my father raised me the Arabic and Islamic way. During the weekends my unstable mother had trouble taking care of me. From 14, I took care of my mother instead. These early years made me fragile but mentally persistent. The journey was hard and challenging.  So between 14-23, I balanced around major depressive episodes. This story ended about 2015 after a few years of therapy, and my meeting and later and current life with my partner. Writing this, I hope to reduce the public stigma of mental illness. This stigma permeates society like an epidemic. 
+
+But everything has not been dark. I had a few wonderful friends, and have had many enjoyable interests. Until 18 my big interests were running, manga, film, and gaming. I was quite a well-trained cineast with expert knowledge in Street Fighter back then. Today I try to entertain my past interests whenever I can. But mainly I live for my love of philosophy and try to channel this love through statistics.
+
+I am also an effective altruist and spend about 30% of my income (net living expenses) on effective charities. As a strict vegan, I spend some of this on animal charities. I plan to raise my share to 50% by the end of 2019.
