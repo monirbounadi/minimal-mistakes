@@ -18,26 +18,29 @@ If I can help you, contact me.
 
 ## Short CV
 
-### Personal
+### Contact Information
 
-- <i class="fas fa-birthday-cake"></i> 23 September 1992
-- <i class="fas fa-home"></i> Maltgatan 12, SE 120 79 Stockholm, Sweden 
-- <i class="fas fa-mobile-alt"></i> [+46 762 74 21 69][tel]
-- <i class="fas fa-at"></i> [monir.bounadi@gmail.com][email]
-- <i class="fas fa-globe"></i> [monirbounadi.github.io/monirbounadi][homepage]
+- Address: Maltgatan 12 apt 1602, SE 120 79 Stockholm, Sweden 
+- Phone: [+46 762 74 21 69][tel]
+- Email: [monir.bounadi@gmail.com][email]
+- Site: [monirbounadi.github.io/monirbounadi][homepage]
+
+### Personal Information
+
+Born on 23 September 1992, Swedish citizen
 
 ### Degrees
 
-- M.Sc., Econometrics, Stockholm University, 2018
-- B.A., Theoretical Philosophy, Stockholm University, 2016
-- B.Sc., Mathematics, Stockholm University, 2016
-- M.Sc., Mathematics, Stockholm University, 2015
+- MSc, Econometrics, Stockholm University, 2018, GPA: 5.00/5
+- BA, Theoretical Philosophy, Stockholm University, 2016, GPA: 4.38/5
+- BSc, Mathematics, Stockholm University, 2016, GPA: 4.79/5
+- MSc, Mathematics, Stockholm University, 2015, GPA: 4.88/5
 
 ### Current Employment 
 
 - Amanuensis, Department of Mathematics, Stockholm University, 2015--
 - Research Assistant, Department of Economics, Stockholm University, 2018--
-- Teaching Assistant, Department of Economics, Stockholm University, 2017--
+- Seminar Teacher, Department of Economics, Stockholm University, 2017--
 - PhD Tutor in Econometrics, 2018--
 
 ### Publications
