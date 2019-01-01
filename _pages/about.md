@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2018-12-13
+last_modified_at: 2019-01-01
 ---
 
 ## Professional Bio
@@ -20,18 +20,18 @@ If I can help you, contact me.
 
 ### Contact Information
 
-- Address: Maltgatan 12 apt 1602, SE 120 79 Stockholm, Sweden 
-- Phone: [+46 762 74 21 69][tel]
-- Email: [monir.bounadi@gmail.com][email]
-- Site: [monirbounadi.github.io/monirbounadi][homepage]
+- <i class="fas fa-home"></i> Maltgatan 12 apt 1602, SE 120 79 Stockholm, Sweden 
+- <i class="fas fa-phone"></i> [+46 762 74 21 69][tel]
+- <i class="fas fa-envelope"></i> [monir.bounadi@gmail.com][email]
+- <i class="fas fa-globe"></i> [monirbounadi.github.io/monirbounadi][homepage]
 
 ### Personal Information
 
-Born on 23 September 1992, Swedish citizen
+Born on 23 September, 1992. Swedish citizen.
 
 ### Degrees
 
-- MSc, Econometrics, Stockholm University, 2018, GPA: 5.00/5
+- MSc, Economics and Econometrics, Stockholm University, 2018, GPA: 5.00/5
 - BA, Theoretical Philosophy, Stockholm University, 2016, GPA: 4.38/5
 - BSc, Mathematics, Stockholm University, 2016, GPA: 4.79/5
 - MSc, Mathematics, Stockholm University, 2015, GPA: 4.88/5
