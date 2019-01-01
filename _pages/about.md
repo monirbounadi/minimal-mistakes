@@ -14,7 +14,7 @@ If I can help you, contact me.
 
 ## CV
 
-<i class="fas fa-file-pdf"></i> [Download CV][cv]
+<i class="fas fa-file-pdf"></i> [Download][cv]
 
 ## Short CV
 
