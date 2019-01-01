@@ -12,9 +12,9 @@ My research interests unify my interests in ethics and statistics. For example, 
 
 If I can help you, contact me. 
 
-## Long CV
+## CV
 
-<i class="fas fa-file-pdf"></i> [Download][cv]
+<i class="fas fa-file-pdf"></i> [Download CV][cv]
 
 ## Short CV
 
