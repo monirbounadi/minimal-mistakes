@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2018-11-11
+last_modified_at: 2019-01-01
 ---
 
 ## Selected Course Material
