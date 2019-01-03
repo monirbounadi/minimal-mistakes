@@ -6,7 +6,7 @@ last_modified_at: 2019-01-01
 
 # Experience
 
-*Stockholm University*
+## Stockholm University
 
 Spring 2019
 :	Econometrics 3b: Time Series Data (MSc), TA
@@ -53,7 +53,7 @@ Autumn 2015
 Spring 2015
 :	Introductory Course in Mathematics (BSc), TA
 
-*Military Academy Karlberg*
+## Military Academy Karlberg
 
 Autumn 2018
 :	Preparatory Mathematics in Military Science (BSc), Lecturer
