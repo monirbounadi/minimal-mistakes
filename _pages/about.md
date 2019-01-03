@@ -1,18 +1,14 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2019-01-01
+last_modified_at: 2019-01-03
 ---
 
 # Professional Bio
 
-I work as a teaching fellow and research assistant. In these roles, I help students and researchers understand and solve statistical problems. I am also a student taking graduate courses in statistics and econometrics.
+I work as amanuensis at the Department of Mathematics, Stockholm University, and as seminar teacher and research assistant at the Department of Economics, Stockholm University. I am also a student taking graduate courses in statistics and econometrics. My research interests lie in the areas of development economics (the consequences of environmental degradation and climate trends) and theoretical econometrics (causal inference in observational studies). If I can help you, contact me. 
 
-My research interests unify my interests in ethics and statistics. For example, causal inference to identify effective charitable interventions, and statistics to help policymakers weigh different kinds of evidence.
-
-If I can help you, contact me. 
-
-# CV
+# Long CV
 
 <i class="fas fa-file-pdf"></i> [Download][cv]
 
@@ -44,10 +40,15 @@ Born on 23 September, 1992, Swedish citizen
 
 ## Current Employment 
 
-- Amanuensis, Department of Mathematics, Stockholm University, 2015--
-- Research Assistant, Department of Economics, Stockholm University, 2018--
-- Seminar Teacher, Department of Economics, Stockholm University, 2017--
-- PhD Tutor in Econometrics, 2018--
+2015--
+:	Amanuensis, Department of Mathematics, Stockholm University
+
+2017--
+:	Seminar Teacher, Department of Economics, Stockholm University
+
+2018--
+:	Research Assistant, Department of Economics, Stockholm University, 
+	PhD Tutor in Econometrics, 2018--
 
 ## Publications
 
@@ -58,7 +59,8 @@ Born on 23 September, 1992, Swedish citizen
 
 ## Awards
 
-- Scholarship for Excellent Master's Thesis in Mathematics from Institut Mittag-Leffler, 2015
+2015
+:	Scholarship for Excellent Master's Thesis in Mathematics from Institut Mittag-Leffler
 
 [tel]: tel: +46 762 74 21 69
 [email]: mailto:monir.bounadi@gmail.com
