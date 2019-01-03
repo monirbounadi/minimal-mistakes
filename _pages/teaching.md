@@ -17,7 +17,7 @@ Spring 2019
 :	Introductory Course in Mathematics (BSc), TA 
 
 Autumn 2018
-:	Econometrics 1 (MSc), TA | [<i class="fas fa-file-archive"></i> Assignments][assignmentsec1]
+:	Econometrics 1 (MSc), TA ([<i class="fas fa-file-archive"></i> Assignments][assignmentsec1])
 :	Probability Theory I (BSc), TA
 :	Statistical Analysis (BSc), TA
 :	Numerical Methods (BSc), TA
