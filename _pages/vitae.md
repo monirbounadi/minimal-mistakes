@@ -4,24 +4,24 @@ title: "Vitae"
 last_modified_at: 2019-01-03
 ---
 
-# Long CV
+## Long CV
 
 [<i class="fas fa-file-pdf"></i> Download][cv]
 
-# Short CV
+## Short CV
 
-## Contact Information
+### Contact Information
 
 - <i class="fas fa-home"></i> Maltgatan 12 apt 1602, SE 120 79 Stockholm, Sweden 
 - [<i class="fas fa-phone"></i> +46 762 74 21 69][tel]
 - [<i class="fas fa-envelope"></i> monir.bounadi@gmail.com][email]
 - [<i class="fas fa-globe"></i> monirbounadi.github.io/monirbounadi][homepage]
 
-## Personal Information
+### Personal Information
 
 Born on 23 September, 1992, Swedish citizen
 
-## Degrees
+### Degrees
 
 2018
 :	MSc, Econometrics, Stockholm University, GPA: 5.00/5
@@ -33,7 +33,7 @@ Born on 23 September, 1992, Swedish citizen
 2015
 :	MSc, Mathematics, Stockholm University, GPA: 4.88/5
 
-## Current Employment 
+### Current Employment 
 
 2015--
 :	Amanuensis, Department of Mathematics, Stockholm University
@@ -45,14 +45,14 @@ Born on 23 September, 1992, Swedish citizen
 :	Research Assistant, Department of Economics, Stockholm University, 
 :	PhD Tutor in Econometrics, 2018--
 
-## Publications
+### Publications
 
-*Non-peer reviewed*
+#### Non-peer reviewed
 
 1. Bounadi, M (2018). [Weather and Conflicts in Afghanistan][bounadi2018]. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.
 2. Bounadi, M (2017). [Bör mainstreamekonomin reformeras?][bounadi2017] *Ekonomisk Debatt 45(3),* 70--74.
 
-## Awards
+### Awards
 
 2015
 :	Scholarship for Excellent Master's Thesis in Mathematics from Institut Mittag-Leffler
