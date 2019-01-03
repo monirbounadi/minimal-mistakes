@@ -8,3 +8,5 @@ I am an amanuensis, seminar teacher, and research assistant at the [Department o
 
 Currently, I study theoretical statistics at the graduate level (MSc, PhD) at Stockholm University. 
 
+If I can help you, contact me. 
+
