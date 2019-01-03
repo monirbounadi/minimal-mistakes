@@ -33,10 +33,12 @@ Born on 23 September, 1992, Swedish citizen
 
 2018
 :	MSc, Econometrics, Stockholm University, GPA: 5.00/5
+
 2016
 :	BA, Philosophy, Stockholm University, GPA: 4.38/5
-2016
+
 :	BSc, Mathematics, Stockholm University, GPA: 4.79/5
+
 2015
 :	MSc, Mathematics, Stockholm University, GPA: 4.88/5
 
