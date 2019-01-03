@@ -4,9 +4,9 @@ title: "About"
 last_modified_at: 2019-01-03
 ---
 
-# Professional Bio
+I work as amanuensis at the Department of Mathematics, Stockholm University, and as seminar teacher and research assistant at the Department of Economics, Stockholm University. I am also a student taking graduate courses in statistics and econometrics. My research interests lie in the areas of development economics (the consequences of environmental degradation and climate trends) and theoretical econometrics (causal inference in observational studies). 
 
-I work as amanuensis at the Department of Mathematics, Stockholm University, and as seminar teacher and research assistant at the Department of Economics, Stockholm University. I am also a student taking graduate courses in statistics and econometrics. My research interests lie in the areas of development economics (the consequences of environmental degradation and climate trends) and theoretical econometrics (causal inference in observational studies). If I can help you, contact me. 
+If I can help you, contact me. 
 
 # Long CV
 
