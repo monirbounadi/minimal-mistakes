@@ -32,7 +32,6 @@ Born on 23 September, 1992, Swedish citizen
 
 2016
 :	BA, Philosophy, Stockholm University, GPA: 4.38/5
-
 :	BSc, Mathematics, Stockholm University, GPA: 4.79/5
 
 2015
@@ -48,7 +47,7 @@ Born on 23 September, 1992, Swedish citizen
 
 2018--
 :	Research Assistant, Department of Economics, Stockholm University, 
-	PhD Tutor in Econometrics, 2018--
+:	PhD Tutor in Econometrics, 2018--
 
 ## Publications
 
