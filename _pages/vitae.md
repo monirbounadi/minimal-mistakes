@@ -6,7 +6,7 @@ last_modified_at: 2019-01-03
 
 ## Long CV
 
-[<i class="fas fa-file-pdf"></i> Download][cv]
+[<i class="fas fa-file-pdf"></i> Long CV][cv]
 
 ## Short CV
 
