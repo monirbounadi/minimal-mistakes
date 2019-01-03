@@ -51,7 +51,7 @@ Born on 23 September, 1992, Swedish citizen
 
 ## Publications
 
-*Non peer-reviewed*
+*Non-peer reviewed*
 
 1. Bounadi, M (2018). [Weather and Conflicts in Afghanistan][bounadi2018]. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.
 2. Bounadi, M (2017). [Bör mainstreamekonomin reformeras?][bounadi2017] *Ekonomisk Debatt 45(3),* 70--74.
