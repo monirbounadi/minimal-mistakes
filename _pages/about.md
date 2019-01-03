@@ -27,14 +27,18 @@ If I can help you, contact me.
 
 ### Personal Information
 
-Born on 23 September, 1992. Swedish citizen.
+Born on 23 September, 1992, Swedish citizen
 
 ### Degrees
 
-- MSc, Economics and Econometrics, Stockholm University, 2018, GPA: 5.00/5
-- BA, Theoretical Philosophy, Stockholm University, 2016, GPA: 4.38/5
-- BSc, Mathematics, Stockholm University, 2016, GPA: 4.79/5
-- MSc, Mathematics, Stockholm University, 2015, GPA: 4.88/5
+2018
+:	MSc, Econometrics, Stockholm University, GPA: 5.00/5
+2016
+:	BA, Philosophy, Stockholm University, GPA: 4.38/5
+2016
+:	BSc, Mathematics, Stockholm University, GPA: 4.79/5
+2015
+:	MSc, Mathematics, Stockholm University, GPA: 4.88/5
 
 ### Current Employment 
 
