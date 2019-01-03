@@ -28,7 +28,8 @@ Spring 2018
 :	Challenging Mathematics (BSc), TA
 :	Introductory Course in Mathematics (BSc), TA
  
-Autumn 2017 & Econometrics 1 (MSc), TA
+Autumn 2017
+:	Econometrics 1 (MSc), TA
 :	Probability Theory I (BSc), TA
 :	Statistical Analysis (BSc), TA
 
@@ -38,7 +39,7 @@ Spring 2017
 
 Autumn 2016
 :	Mathematics I (BSc), TA
-:	Introductory Course in Mathematics (BSc), TA\\
+:	Introductory Course in Mathematics (BSc), TA
 
 Spring 2016
 :	Mathematics I (BSc), TA
