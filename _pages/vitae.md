@@ -4,9 +4,9 @@ title: "Vitae"
 last_modified_at: 2019-01-03
 ---
 
-## Long CV
+## Academic CV
 
-[<i class="fas fa-file-pdf"></i> Long CV][cv]
+[<i class="fas fa-file-pdf"></i> Download][cv]
 
 ## Short CV
 
@@ -42,15 +42,14 @@ Born on 23 September, 1992, Swedish citizen
 :	Seminar Teacher, Department of Economics, Stockholm University
 
 2018--
-:	Research Assistant, Department of Economics, Stockholm University, 
-:	PhD Tutor in Econometrics, 2018--
+:	Research Assistant, Department of Economics, Stockholm University 
+:	PhD Tutor in Econometrics
 
 ### Publications
 
-#### Non-peer reviewed
-
-1. Bounadi, M (2018). [Weather and Conflicts in Afghanistan][bounadi2018]. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.
-2. Bounadi, M (2017). [Bör mainstreamekonomin reformeras?][bounadi2017] *Ekonomisk Debatt 45(3),* 70--74.
+Non-peer reviewed
+:	1. Bounadi, M (2018). [Weather and Conflicts in Afghanistan][bounadi2018]. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.
+:	2. Bounadi, M (2017). [Bör mainstreamekonomin reformeras?][bounadi2017] *Ekonomisk Debatt 45(3),* 70--74.
 
 ### Awards
 
