@@ -1,21 +1,25 @@
 ---
 permalink: /vitae/
 title: "Vitae"
-last_modified_at: 2019-01-03
+last_modified_at: 2019-01-15
 ---
 
-## Academic CV
+## Curriculum Vitae
 
 [<i class="fas fa-file-pdf"></i> Download][cv]
 
-## Short CV
+## Resume
+
+[<i class="fas fa-file-pdf"></i> Download][resume]
+
+## In Brief
 
 ### Contact Information
 
 - <i class="fas fa-home"></i> Maltgatan 12 apt 1602, SE 120 79 Stockholm, Sweden 
 - [<i class="fas fa-phone"></i> +46 762 74 21 69][tel]
 - [<i class="fas fa-envelope"></i> monir.bounadi@gmail.com][email]
-- [<i class="fas fa-globe"></i> monirbounadi.github.io/monirbounadi][homepage]
+- [<i class="fas fa-desktop"></i> monirbounadi.github.io/monirbounadi][homepage]
 
 ### Personal Information
 
@@ -63,3 +67,4 @@ Born on 23 September, 1992, Swedish citizen
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
 [cv]: {{ site.url }}/monirbounadi/assets/personal/BounadiCV.pdf
+[resume]: {{ site.url }}/monirbounadi/assets/personal/BounadiResume.pdf
