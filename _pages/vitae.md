@@ -4,7 +4,7 @@ title: "Vitae"
 last_modified_at: 2019-01-15
 ---
 
-## Curriculum Vitae
+## CV
 
 [<i class="fas fa-file-pdf"></i> Download][cv]
 
