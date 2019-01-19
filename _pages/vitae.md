@@ -37,7 +37,7 @@ Born on 23 September, 1992, Swedish citizen
 2015
 :	MSc, Mathematics, Stockholm University
 
-### Current Employment Status 
+### Current Status 
 
 2015--
 :	Amanuensis, Department of Mathematics, Stockholm University
