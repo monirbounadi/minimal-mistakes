@@ -22,14 +22,14 @@ Swedish Citizen.
 ### Degrees
 
 2018
-:	MSc, Econometrics, Stockholm University
+:	M.Sc., Econometrics, Stockholm University
 
 2016
-:	BA, Philosophy, Stockholm University
-:	BSc, Mathematics, Stockholm University
+:	B.A., Philosophy, Stockholm University
+:	B.Sc., Mathematics, Stockholm University
 
 2015
-:	MSc, Mathematics, Stockholm University
+:	M.Sc., Mathematics, Stockholm University
 
 ### Current Status 
 
