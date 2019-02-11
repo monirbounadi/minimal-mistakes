@@ -8,4 +8,4 @@ I am a student at [Stockholm University](https://www.su.se/english/) taking grad
 
 Read more about my [vitae](https://monirbounadi.github.io/monirbounadi/vitae/), [research](https://monirbounadi.github.io/monirbounadi/research/) and [teaching](https://monirbounadi.github.io/monirbounadi/teaching/), or consult my [CV][cv]. If I can help you, contact me at [monir.bounadi@gmail.com](mailto:monir.bounadi@gmail.com). 
 
-[cv]: {{ site.url }}/monirbounadi/assets/BounadiCV2019.pdf
+[cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
