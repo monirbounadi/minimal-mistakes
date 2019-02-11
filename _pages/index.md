@@ -12,7 +12,7 @@ E-mail: [monir.bounadi@gmail.com][email].
 
 Phone: [+46 762 74 21 69][tel] (mobile).
 
-My office at the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. My office at the Department of Economics is located in room A409 on the 4th floor of Södra huset. Send an e-mail to [monir.bounadi@math.su.se][emai.mathl] or [monir.bounadi@ne.su.se][email.ne] if you want to set up a meeting.
+My office at the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. My office at the Department of Economics is located in room A409 on the 4th floor of Södra huset. Send an e-mail to [monir.bounadi@math.su.se][email.math] or [monir.bounadi@ne.su.se][email.ne] if you want to set up a meeting.
 
 [cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
 [tel]: tel: +46 762 74 21 69
