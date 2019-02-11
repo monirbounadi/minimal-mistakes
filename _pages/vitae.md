@@ -22,14 +22,14 @@ Swedish Citizen.
 ### Degrees
 
 2018
-:	M.Sc., Econometrics, Stockholm University
+:	MSc, Econometrics, Stockholm University
 
 2016
-:	B.A., Philosophy, Stockholm University
-:	B.Sc., Mathematics, Stockholm University
+:	BA, Philosophy, Stockholm University
+:	BSc, Mathematics, Stockholm University
 
 2015
-:	M.Sc., Mathematics, Stockholm University
+:	MSc, Mathematics, Stockholm University
 
 ### Current Status 
 
@@ -46,4 +46,4 @@ Swedish Citizen.
 [tel]: tel: +46 762 74 21 69
 [email]: mailto:monir.bounadi@gmail.com
 [homepage]: https://monirbounadi.github.io/monirbounadi
-[cv]: {{ site.url }}/monirbounadi/assets/BounadiCV2019.pdf
+[cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
