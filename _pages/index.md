@@ -8,14 +8,14 @@ I am a student at [Stockholm University](https://www.su.se/english/) taking grad
 
 Read more about my [research](https://monirbounadi.github.io/monirbounadi/research/) and [teaching](https://monirbounadi.github.io/monirbounadi/teaching/). You can also consult my [CV][cv]. 
 
-E-mail: [monir.bounadi@gmail.com](mailto:monir.bounadi@gmail.com). 
+E-mail: [monir.bounadi@gmail.com][email]. 
 
-Phone: [+46 762 74 21 69][tel] (mobile)
+Phone: [+46 762 74 21 69][tel] (mobile).
 
-My office at the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. 
-
-My office at the Department of Economics is located in room A409 on the 4th floor of Södra huset.
+My office at the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. My office at the Department of Economics is located in room A409 on the 4th floor of Södra huset. Send an e-mail to [monir.bounadi@math.su.se][emai.mathl] or [monir.bounadi@ne.su.se][email.ne] if you want to set up a meeting.
 
 [cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
 [tel]: tel: +46 762 74 21 69
 [email]: mailto:monir.bounadi@gmail.com
+[email.ne]: mailto:monir.bounadi@ne.su.se
+[email.math]: mailto:monir.bounadi@math.su.se
