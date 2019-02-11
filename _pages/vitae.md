@@ -13,7 +13,7 @@ last_modified_at: 2019-02-11
 ### Contact Information
 
 - [<i class="fas fa-phone"></i> +46 762 74 21 69][tel]
-- [<i class="fas fa-envelope"></i> monir.bounadi@ne.su.se][email]
+- [<i class="fas fa-envelope"></i> monir.bounadi@gmail.com][email]
 
 ### Personal Information
 
@@ -37,7 +37,7 @@ Swedish Citizen.
 :	Amanuensis, Department of Mathematics, Stockholm University
 
 2017--
-:	Seminar Teacher, Department of Economics, Stockholm University
+:	Group Teacher, Department of Economics, Stockholm University
 
 2018--
 :	Research Assistant, Department of Economics, Stockholm University 
