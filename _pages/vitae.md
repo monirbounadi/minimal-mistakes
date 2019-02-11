@@ -46,4 +46,4 @@ Swedish Citizen.
 [tel]: tel: +46 762 74 21 69
 [email]: mailto:monir.bounadi@gmail.com
 [homepage]: https://monirbounadi.github.io/monirbounadi
-[cv]: {{ site.url }}/monirbounadi/assets/personal/BounadiCV.pdf
+[cv]: {{ site.url }}/monirbounadi/assets/BounadiCV2019.pdf
