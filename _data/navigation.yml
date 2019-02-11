@@ -1,7 +1,5 @@
 # main links
 main:
-   - title: "Vitae"
-     url: /vitae/
    - title: "Research"
      url: /research/
    - title: "Teaching"
