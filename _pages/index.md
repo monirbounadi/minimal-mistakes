@@ -6,7 +6,7 @@ last_modified_at: 2019-02-13
 
 ## About me
 
-Hello. I am an economist with research interests in development economics, econometrics, and political economy. Since there are so few of us I must also say that I was a first-generation high-school student.
+Hello. I am an economist with research interests in development economics, econometrics, and political economy. I am also a proud former first-generation high-school student.
 
 I am currently a student and employee at [Stockholm University](https://www.su.se/english/) where I do Masters and PhD level coursework in theoretical statistics and teach mathematical statistics and econometrics. I also assist Associate Professor [David Seim](http://www.davidseim.com/) and Professor [David Strömberg](http://perseus.iies.su.se/~dstro/) at the Department of Economics. Now and then I tutor former Minister for Finance of Sweden [Anders Borg](https://en.wikipedia.org/wiki/Anders_Borg).
 
