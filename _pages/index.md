@@ -8,7 +8,7 @@ last_modified_at: 2019-02-13
 
 Hello. I am an economist with research interests in development economics, econometrics, and political economy.
 
-I am currently a student and employee at [Stockholm University](https://www.su.se/english/). I do Masters and PhD level coursework in theoretical statistics. In addition, I teach mathematical statistics and econometrics at the Departments of Mathematics and Economics at Stockholm University and also to former Minister for Finance of Sweden [Anders Borg](https://en.wikipedia.org/wiki/Anders_Borg). I also assist Associate Professor [David Seim](http://www.davidseim.com/) and Professor [David Strömberg](http://perseus.iies.su.se/~dstro/) with their research at the Department of Economics at Stockholm University.
+I am currently a student and employee at [Stockholm University](https://www.su.se/english/) where I do Masters and PhD level coursework in theoretical statistics and teach mathematical statistics and econometrics. I also assist Associate Professor [David Seim](http://www.davidseim.com/) and Professor [David Strömberg](http://perseus.iies.su.se/~dstro/) at the Department of Economics. Now and then I tutor former Minister for Finance of Sweden [Anders Borg](https://en.wikipedia.org/wiki/Anders_Borg).
 
 I recently received my MSc in econometrics from Stockholm University in 2018. In 2015 and 2016 I received my BSc and MSc in mathematics, and my BA in philosophy, from Stockholm University.
 
