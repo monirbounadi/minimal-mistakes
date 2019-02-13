@@ -6,6 +6,8 @@ last_modified_at: 2019-01-03
 
 ## Selected Course Material
 
+Selected course material written by me. Solutions to assignments and problems can be provided to university teachers upon request.
+
 Econometrics 1 (Masters level)
  : [<i class="fas fa-file-archive"></i> Assignments][assignmentsec1]
 
