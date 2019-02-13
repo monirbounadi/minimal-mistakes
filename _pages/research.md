@@ -8,11 +8,11 @@ last_modified_at: 2019-01-31
 
 ### Working Papers
 
-- Bounadi, Monir (2018). [Weather and Conflicts in Afghanistan][bounadi2018]. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.
+- [Bounadi, Monir (2018). Weather and Conflicts in Afghanistan. *Expert Group for Aid Studies, Sweden,*  EBA Working Paper.][bounadi2018]
 
 ### In Swedish
 
-- Bounadi, Monir (2017). [Bör mainstreamekonomin reformeras?][bounadi2017] *Ekonomisk Debatt 45(3),* 70--74.
+- [Bounadi, Monir (2017). Bör mainstreamekonomin reformeras? *Ekonomisk Debatt 45(3),* 70--74.][bounadi2018]
 
 ### In Progress
 
