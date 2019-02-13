@@ -10,7 +10,7 @@ Hello. I am an economist with research interests in development economics, econo
 
 I am currently a student and employee at [Stockholm University](https://www.su.se/english/) where I do Masters and PhD level coursework in theoretical statistics and teach mathematical statistics and econometrics. I also assist Associate Professor [David Seim](http://www.davidseim.com/) and Professor [David Strömberg](http://perseus.iies.su.se/~dstro/) at the Department of Economics. Now and then I tutor former Minister for Finance of Sweden [Anders Borg](https://en.wikipedia.org/wiki/Anders_Borg).
 
-I recently received my MSc in econometrics from Stockholm University in 2018. In 2015 and 2016 I received my BSc and MSc in mathematics, and my BA in philosophy, from Stockholm University.
+I received my MSc in econometrics from Stockholm University in 2018 and received degrees in mathematics and philosophy from Stockholm University at some points before that.
 
 Here is my [CV][cv].
 
