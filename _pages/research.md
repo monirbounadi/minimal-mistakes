@@ -1,7 +1,6 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2019-01-31
 ---
 
 ## Papers
