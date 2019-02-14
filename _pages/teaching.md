@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Course material provided for semesters where I made new course material or substantial changes in existing course material. 
+## Experience
 
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters level), Stockholm University, TA
@@ -15,7 +15,7 @@ Spring 2019
 : PhD Tutor in Econometrics to former Minister for Finance of Sweden Anders Borg
 
 Autumn 2018
-:	Econometrics 1 (Masters level), Stockholm University, TA. [<i class="fas fa-file-archive"></i> Assignments][assignmentsec1]
+:	Econometrics 1 (Masters level), Stockholm University, TA
 :	Probability Theory I (undergraduate), Stockholm University, TA
 :	Statistical Analysis (undergraduate), Stockholm University, TA
 :	Numerical Methods (undergraduate), Stockholm University, TA
@@ -53,5 +53,3 @@ Autumn 2015
 
 Spring 2015
 :	Introductory Course in Mathematics (undergraduate), Stockholm University, TA
-
-[assignmentsec1]: {{ site.url }}/monirbounadi/assets/teaching/Assignments_EC7410_Econometrics_1_2018-19.zip
