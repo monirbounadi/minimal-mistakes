@@ -15,7 +15,7 @@ Here is my [CV][cv].
 
 ## Contact Information
 
-My office in the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. My office in the Department of Economics is located in room A409 on the 4th floor of Södra huset. Office hours are by agreement.
+My office in the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. My office in the Department of Economics is located in room A409 on the 4th floor of Södra huset. Office hours: by agreement.
 
 **Email:** [monir.bounadi@ne.su.se][email].
 
