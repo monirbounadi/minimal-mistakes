@@ -3,8 +3,6 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Experience
-
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters level), Stockholm University, TA
 :	Empirical Methods in Economics 3 (undergraduate), Stockholm University, TA
