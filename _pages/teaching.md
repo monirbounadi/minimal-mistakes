@@ -3,15 +3,6 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Selected Course Material
-
-Selected course material written by me. Solutions to assignments and problems can be provided to university teachers upon request.
-
-Econometrics 1 (Masters level)
- : [<i class="fas fa-file-archive"></i> Assignments][assignmentsec1]
-
-## Experience
-
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters level), Stockholm University, TA
 :	Empirical Methods in Economics 3 (undergraduate), Stockholm University, TA
@@ -22,7 +13,7 @@ Spring 2019
 : PhD Tutor in Econometrics to former Minister for Finance of Sweden Anders Borg
 
 Autumn 2018
-:	Econometrics 1 (Masters level), Stockholm University, TA
+:	Econometrics 1 (Masters level), Stockholm University, TA. [<i class="fas fa-file-archive"></i> Assignments][assignmentsec1]
 :	Probability Theory I (undergraduate), Stockholm University, TA
 :	Statistical Analysis (undergraduate), Stockholm University, TA
 :	Numerical Methods (undergraduate), Stockholm University, TA
