@@ -3,6 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+Course material provided for semesters where I made new course material or substantial changes in existing course material. 
+
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters level), Stockholm University, TA
 :	Empirical Methods in Economics 3 (undergraduate), Stockholm University, TA
