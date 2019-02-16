@@ -17,5 +17,5 @@ In Progress
 [bounadi2018_pub]: https://eba.se/rapporter/weather-and-conflicts-in-afghanistan/7035/
 [bounadi2018_app]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018_app.pdf
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
-[bounad2017_pub]: https://www.nationalekonomi.se/ED-4503
+[bounadi2017_pub]: https://www.nationalekonomi.se/ED-4503
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
