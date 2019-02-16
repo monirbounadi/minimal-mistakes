@@ -15,6 +15,6 @@ In Progress
   : Bounadi, Monir. The Front-Door Criterion in an Econometric Context.
 
 [bounadi2018_pub]: https://eba.se/rapporter/weather-and-conflicts-in-afghanistan/7035/
-[bounadi2018_app]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018_appendix.pdf
+[bounadi2018_app]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018_app.pdf
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
