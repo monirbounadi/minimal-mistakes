@@ -102,9 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "Monir Bounadi"
-  avatar           : "/assets/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I love messy data."
-  location         : "Stockholm"
+  avatar           : "/assets/bio-photo.jpg"
+  bio              : "Former first-generation high-school student."
+  location         : "Stockholm, Sweden"
   email            : "monir.bounadi@ne.su.se"
   links:
     - label: "Email"
