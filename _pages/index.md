@@ -9,7 +9,7 @@ Hello. I'm an economist with research interests in development economics, econom
 
 I'm currently a student and employee at [Stockholm University](https://www.su.se/english/) where I do Masters and PhD level coursework in theoretical statistics and teach mathematical statistics and econometrics. I also assist Associate Professor [David Seim](http://www.davidseim.com/) and Professor [David Strömberg](http://perseus.iies.su.se/~dstro/) at the Department of Economics. I'll start my PhD in Economics at Stockholm University this fall.
 
-I received my MSc in econometrics from Stockholm University in 2018 and degrees in mathematics and philosophy before that.
+I received my MSc in Econometrics from Stockholm University in 2018 and degrees in mathematics and philosophy before that.
 
 Here is my [CV][cv].
 
