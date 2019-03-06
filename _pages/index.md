@@ -19,7 +19,7 @@ Here is my [CV][cv].
 
 **Phone:** [+46 76 274 21 69][tel].
 
-**Office:** My office in the Department of Mathematics is located in room 206 on the 2nd floor of house 6 at Kräftriket. My office in the Department of Economics is located in room A409 on the 4th floor of Södra huset. 
+**Office:** Stockholm University, Södra huset, A409.
 
 **Office hours:** By agreement.
 
