@@ -19,7 +19,7 @@ Here is my [CV][cv].
 
 **Phone:** [+46 76 274 21 69][tel].
 
-**Office:** Stockholm University Campus, Södra husen, A409.
+**Office:** Stockholm University Campus, Södra husen, room A409.
 
 **Office hours:** By agreement.
 
