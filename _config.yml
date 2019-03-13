@@ -121,13 +121,13 @@ author:
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      #url: "https://www.linkedin.com/in/monirbounadi"
+      # url: "https://www.linkedin.com/in/monirbounadi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/monirbounadi/"
+      # url: "https://github.com/monirbounadi/"
 
 # Site Footer
 footer:
