@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Experience
+## Teaching Experience
 
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters), Stockholm University, TA
@@ -12,6 +12,7 @@ Spring 2019
 :	Stochastic Processes and Simulation II (undergraduate), Stockholm University, TA
 :	Challenging Mathematics (undergraduate), Stockholm University, TA
 :	Introductory Course in Mathematics (undergraduate), Stockholm University, TA
+:   PhD Tutor in Econometrics to former Minister for Finance of Sweden Anders Borg
 
 Autumn 2018
 :	Econometrics 1 (Masters), Stockholm University, TA
@@ -19,6 +20,7 @@ Autumn 2018
 :	Statistical Analysis (undergraduate), Stockholm University, TA
 :	Numerical Methods (undergraduate), Stockholm University, TA
 : 	Preparatory Mathematics (undergraduate), Military Academy Karlberg, Instructor
+:   PhD Tutor in Econometrics to former Minister for Finance of Sweden Anders Borg
 
 Spring 2018
 :	Econometrics 3b: Time Series Data (Masters), Stockholm University, TA
