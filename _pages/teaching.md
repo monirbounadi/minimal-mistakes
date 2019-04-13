@@ -3,13 +3,12 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Teaching Experience
-
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters), Stockholm University, TA
 :	Empirical Methods in Economics 3 (undergraduate), Stockholm University, TA
 :	Stochastic Processes and Simulation I (undergraduate), Stockholm University, TA
 :	Stochastic Processes and Simulation II (undergraduate), Stockholm University, TA
+:	Mathematical Analysis (undergraduate), Stockholm University, TA
 :	Challenging Mathematics (undergraduate), Stockholm University, TA
 :	Introductory Course in Mathematics (undergraduate), Stockholm University, TA
 :   PhD Tutor in Econometrics to former Minister for Finance of Sweden Anders Borg
