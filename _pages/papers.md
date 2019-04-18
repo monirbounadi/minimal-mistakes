@@ -3,8 +3,6 @@ permalink: /papers/
 title: "Papers"
 ---
 
-## Papers
-
 Working Papers
   : Bounadi, Monir (2018). "Weather and Conflicts in Afghanistan." *Expert Group for Aid Studies, Sweden,*  EBA Working Paper. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (TBD), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
 
