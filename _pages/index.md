@@ -13,15 +13,14 @@ Here is my [CV][cv].
 
 ## Contact Information
 
-**Email:** [monir.bounadi@ne.su.se][email].
+**Email:** [monir.bounadi@ne.su.se][email]
 
-**Phone:** [0046 76 274 21 69][tel].
+**Phone:** [+46 76 274 21 69][tel]
 
-**Office:** Stockholm University Campus, Södra husen, room A409.
+**Office:** Stockholm University Campus, Södra husen, room A409
 
-**Office hours:** By agreement.
-
+**Office hours:** By agreement
 
 [cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
-[tel]: tel: 0046 76 274 21 69
+[tel]: tel: +46 76 274 21 69
 [email]: mailto:monir.bounadi@ne.su.se
