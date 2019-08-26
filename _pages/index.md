@@ -13,6 +13,8 @@ Here is my [CV][cv].
 
 ## Contact Information
 
+The best way to reach me is by email. I check my email once every weekday and try to respond within two days. If it's an emergency, you can call me. 
+
 **Email:** [monir.bounadi@ne.su.se][email]
 
 **Phone:** [+46 76 274 21 69][tel]
