@@ -3,6 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+Autumn 2019
+:	Mathematics II (PhD), Stockholm University, TA
+
 Spring 2019
 :	Econometrics 3b: Time Series Data (Masters), Stockholm University, TA
 :	Empirical Methods in Economics 3 (undergraduate), Stockholm University, TA
