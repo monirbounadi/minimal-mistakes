@@ -19,7 +19,7 @@ The best way to reach me is by email. I try to check my email once every weekday
 
 **Phone:** [+46 76 274 21 69][tel]
 
-**Office:** Stockholm University Campus, Södra husen, room A409
+**Office:** Stockholm University Campus, Södra husen, room A457
 
 **Office hours:** By agreement
 
