@@ -5,7 +5,7 @@ title: "Monir Bounadi"
 
 ## About Me
 
-Hello. I'm a PhD Student in Economics at [Stockholm University](https://www.su.se/english/). My research interests are Development Economics, Econometrics, Economic History, and Political Economics.
+Hello. I'm a PhD Student in Economics at [Stockholm University](https://www.su.se/english/). My research interests are Development Economics, Econometrics, and Political Economics.
 
 I received my MSc in Econometrics from Stockholm University in 2018 and degrees in mathematics and philosophy before that.
 
