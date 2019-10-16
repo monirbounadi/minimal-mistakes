@@ -9,7 +9,7 @@ Hello. I'm a PhD Student in Economics at [Stockholm University](https://www.su.s
 
 I received my MSc in Econometrics from Stockholm University in 2018 and degrees in mathematics and philosophy before that.
 
-Here is my [CV][cv].
+Here is my [CV][cv]. 
 
 ## Contact Information
 
