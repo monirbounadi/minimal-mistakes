@@ -11,6 +11,7 @@ Publications in Swedish
 
 Work in Progress
   : "The Front-Door Criterion in an Econometric Context"
+  : "Skills, Outsourcing and Wage Inequality in Sweden" (with August Torngren Wartin and Max Thaning)
 
 [bounadi2018_pub]: https://eba.se/rapporter/weather-and-conflicts-in-afghanistan/7035/
 [bounadi2018_app]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018_app.pdf
