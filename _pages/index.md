@@ -13,13 +13,6 @@ Before my doctoral studies, I did undergraduate and graduate studies in economic
 
 ## Contact
 
-Stockholm University
-Department of Economics
-SE-106 91 Stockholm
-
-[monir.bounadi@ne.su.se][email]
-[+46 76 274 21 69][tel]
-
 **Phone:** [+46 76 274 21 69][tel]
 
 **Email:** [monir.bounadi@ne.su.se][email]
