@@ -3,23 +3,28 @@ permalink: /
 title: "Monir Bounadi"
 ---
 
-## About Me
+## Bio and CV
 
-Hello. I'm a PhD Student in Economics at [Stockholm University](https://www.su.se/english/). My research interests are Development Economics, Econometrics, and Political Economics.
+I am a first year PhD student in Economics at [Stockholm University](https://www.su.se/english/). My research interest lie at the intersection of development economics, political economy, and economic history. My current research seeks to better understand how variation in social capital and religion affect the evolution of societies.
 
-I received my MSc in Econometrics from Stockholm University in 2018 and degrees in mathematics and philosophy before that.
+Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
 
-Here is my [CV][cv].
+[CV][cv]
 
-## Contact Information
+## Contact
 
-**Email:** [monir.bounadi@ne.su.se][email]
+Stockholm University
+Department of Economics
+SE-106 91 Stockholm
+
+[monir.bounadi@ne.su.se][email]
+[+46 76 274 21 69][tel]
 
 **Phone:** [+46 76 274 21 69][tel]
 
-**Office:** Stockholm University Campus, Södra husen, room A457
+**Email:** [monir.bounadi@ne.su.se][email]
 
-**Office hours:** By agreement
+**Office:** Stockholm University Campus, Södra husen, room A457
 
 [cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
 [tel]: tel: +46 76 274 21 69
