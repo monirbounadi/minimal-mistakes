@@ -9,7 +9,7 @@ I am a first year PhD student in Economics at [Stockholm University](https://www
 
 Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
 
-[CV][cv]
+[<i class="fas fa-file-pdf"></i> CV][cv]
 
 ## Contact
 
