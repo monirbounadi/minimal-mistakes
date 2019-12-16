@@ -4,7 +4,8 @@ title: "Research"
 ---
 
 Working Papers
-  : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (TBA), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
+  : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (TBA), [<i class="fas fa-link"></i> Publication][bounadi2018_pub] 
+  <details> <summary>Abstract (click to expand)</summary> as</details>
 
 Publications in Swedish
   : "Bör mainstreamekonomin reformeras?", *Ekonomisk Debatt 45(3),* 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
