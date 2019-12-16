@@ -5,11 +5,11 @@ title: "Monir Bounadi"
 
 ## Bio and CV
 
-I am a first year PhD student in Economics at [Stockholm University](https://www.su.se/english/). My research interests lie at the intersection of development economics, political economy, and economic history. My current research seeks to better understand how variation in social capital and religion affect the evolution of societies.
+I am a first-year PhD student in Economics at [Stockholm University](https://www.su.se/english/). My research interests lie at the intersection of development economics, political economy, and economic history. My current research seeks to understand how culture affects societies.
 
 Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
 
-[<i class="fas fa-file-pdf"></i> CV][cv]
+[<i class="fas fa-file-pdf"></i> Curriculum Vitae][cv]
 
 ## Contact
 
