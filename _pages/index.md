@@ -5,9 +5,7 @@ title: "Monir Bounadi"
 
 ## Bio and CV
 
-I am a PhD student in Economics at [Stockholm University](https://www.ne.su.se/). My research interests lie at the intersection of development economics, political economy, and economic history. 
-
-Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
+I am a PhD student in Economics at [Stockholm University](https://www.ne.su.se/). My research interests lie at the intersection of development economics, political economy, and economic history. Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
 
 [<i class="fas fa-file-pdf"></i> Curriculum Vitae][cv]
 
