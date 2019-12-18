@@ -10,6 +10,7 @@ Publications in Swedish
   : "Bör mainstreamekonomin reformeras?", *Ekonomisk Debatt 45(3),* 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
 
 Work in Progress
+  : "Islam and Fertility in Africa"
   : "The Front-Door Criterion in an Econometric Context"
   : "Skills, Outsourcing and Wage Inequality in Sweden" (with August Torngren Wartin and Max Thaning)
 
