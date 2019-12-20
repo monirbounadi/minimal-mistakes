@@ -3,16 +3,17 @@ permalink: /research/
 title: "Research"
 ---
 
-Working Papers
-  : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (TBA), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
-
-Publications in Swedish
-  : "Bör mainstreamekonomin reformeras?", *Ekonomisk Debatt 45(3),* 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
-
-Work in Progress
+Works in Progress
   : "Islam and Fertility in Africa"
   : "The Front-Door Criterion in an Econometric Context"
   : "Skills, Outsourcing and Wage Inequality in Sweden" (with August Torngren Wartin and Max Thaning)
+  
+Working Papers
+  : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (TBA), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
+  
+Reviews
+  : "Bör mainstreamekonomin reformeras?" (in Swedish), *Ekonomisk Debatt 45(3),* 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
+
 
 [bounadi2018_pub]: https://eba.se/rapporter/weather-and-conflicts-in-afghanistan/7035/
 [bounadi2018_app]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018_app.pdf
