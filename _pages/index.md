@@ -3,7 +3,7 @@ permalink: /
 title: "Monir Bounadi"
 ---
 
-## Bio and CV
+## Bio & CV
 
 I am a PhD student in Economics at [Stockholm University](https://www.ne.su.se/). My research interests lie at the intersection of development economics, political economy, and economic history. I currently seek to understand how culture affect societies.
 
