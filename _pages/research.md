@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-Works in Progress
+Work in Progress
   : "Islam and Fertility in Africa"
   : "The Front-Door Criterion in an Econometric Context"
   : "Skills, Outsourcing and Wage Inequality in Sweden" (with August Torngren Wartin and Max Thaning)
