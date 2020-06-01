@@ -9,7 +9,7 @@ I am a PhD student in Economics at [Stockholm University](https://www.ne.su.se/)
 
 My on-going projects focuses on how institutions and culture affect development in Africa.
 
-Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
+Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics (including statistics), and philosophy at Stockholm University.
 
 [<i class="fas fa-file-pdf"></i> Curriculum Vitae][cv]
 
