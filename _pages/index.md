@@ -5,7 +5,7 @@ title: "Monir Bounadi"
 
 ## Bio & CV
 
-I am a PhD student in Economics at [Stockholm University](https://www.ne.su.se/) interested in development economics, political economy, economic history, and econometric theory. 
+I am a PhD student in Economics at [Stockholm University](https://www.ne.su.se/) working on problems in development economics, political economy, economic history, and econometric theory.
 
 My on-going projects focuses on how institutions and culture affect development in Africa.
 
