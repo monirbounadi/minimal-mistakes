@@ -105,11 +105,11 @@ author:
   avatar           : "/assets/bio-photo.jpg"
   bio              : "PhD Student in Economics at Stockholm University"
   location         : "Stockholm, Sweden"
-  email            : "monir.bounadi@ne.su.se"
+  email            : "monir.bounadi@iies.su.se"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:monir.bounadi@ne.su.se"
+      # url: "mailto:monir.bounadi@iies.su.se"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
