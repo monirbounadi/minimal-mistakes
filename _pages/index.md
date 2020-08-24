@@ -5,7 +5,7 @@ title: "Monir Bounadi"
 
 ## Bio & CV
 
-I am a PhD student in Economics at the [Institute for International Economic Studies (IIES)](https://www.iies.su.se/) at Stockholm University. 
+I am a PhD student at the [Institute for International Economic Studies (IIES)](https://www.iies.su.se/) at Stockholm University. 
 
 I work on problems in development economics, political economy, economic history, and econometric theory. My on-going projects focuses on how institutions and culture affect development in Africa. 
 
