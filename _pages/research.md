@@ -4,6 +4,7 @@ title: "Research"
 ---
 
 Work in Progress
+  : "Islamic Rule and the European Empires"
   : "Islam and Fertility in Africa"
   : "The Front-Door Criterion in an Econometric Context"
   : "Skills, Outsourcing and Wage Inequality in Sweden" (with August Torngren Wartin and Max Thaning)
