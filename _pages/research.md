@@ -10,7 +10,7 @@ Work in Progress
   : "Skills, Outsourcing and Wage Inequality in Sweden" (with August Torngren Wartin and Max Thaning)
   
 Working Papers
-  : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (TBA), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
+  : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (upon request), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
   
 Reviews
   : "Bör mainstreamekonomin reformeras?" (in Swedish), *Ekonomisk Debatt 45(3),* 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
