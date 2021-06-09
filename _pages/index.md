@@ -7,7 +7,7 @@ title: "Monir Bounadi"
 
 I am a PhD student at the [Institute for International Economic Studies (IIES)](https://www.iies.su.se/) at Stockholm University. 
 
-I work on problems in development economics, political economy, economic history, and econometric theory. My on-going projects focuses on how institutions and culture affect development in Africa. 
+I work on problems in development economics, political economy, economic history, and econometric theory. My on-going projects focuses on how institutions and culture affect development. 
 
 Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics (including statistics), and philosophy at Stockholm University.
 
