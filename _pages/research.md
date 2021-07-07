@@ -13,7 +13,7 @@ Working Papers
   : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (upon request), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
   
 Reviews
-  : "Bör mainstreamekonomin reformeras?" (in Swedish), *Ekonomisk Debatt 45(3),* 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
+  : "Bör mainstreamekonomin reformeras?" (in Swedish), *Ekonomisk Debatt* 45 (3): 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
 
 
 [bounadi2018_pub]: https://eba.se/rapporter/weather-and-conflicts-in-afghanistan/7035/
