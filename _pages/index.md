@@ -15,7 +15,7 @@ Before my doctoral studies, I did undergraduate and graduate studies in economic
 
 ## Contact
 
-**Phone:** [+46 76 274 21 69][tel]
+**Tel:** [+46 76 274 21 69][tel]
 
 **Email:** [monir.bounadi@iies.su.se][email]
 
