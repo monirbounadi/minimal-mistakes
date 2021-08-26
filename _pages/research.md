@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-Work in Progress
+Works in Progress
   : "Religion, Politics, and Mobilization: Evidence from the Age of Empires"
   : "Democracy by Petition: Evidence from the Enfranchisement of Women in Sweden"
   
