@@ -9,7 +9,7 @@ I am a PhD student at the [Institute for International Economic Studies (IIES)](
 
 I study problems in development economics and political economy with attention to historical work and empirical methods.  
 
-Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy at Stockholm University.
+Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy.
 
 [<i class="fas fa-file-pdf"></i> Curriculum Vitae][cv]
 
