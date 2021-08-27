@@ -5,7 +5,7 @@ title: "Research"
 
 Works in Progress
   : "Religion, Politics, and Mobilization: Evidence from the Age of Empires"
-  : "Democracy by Petition: Evidence from the Enfranchisement of Women in Sweden"
+  : "Democracy by Petition: Evidence from the Struggle for Female Suffrage in Sweden"
   
 Master's Thesis 
   : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,*  EBA Working Paper, 2018. [<i class="fas fa-file-pdf"></i> Paper][bounadi2018], [<i class="fas fa-file-pdf"></i> Appendix][bounadi2018_app], Replication files (upon request), [<i class="fas fa-link"></i> Publication][bounadi2018_pub]
