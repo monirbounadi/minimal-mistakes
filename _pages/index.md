@@ -7,7 +7,7 @@ title: "Monir Bounadi"
 
 I am a PhD student at the [Institute for International Economic Studies (IIES)](https://www.iies.su.se/) at Stockholm University. 
 
-I study problems in development economics and political economy, with attention to historical work and empirical methods.
+I study problems in development economics and political economy, with attention to historical works and empirical methods.
 
 Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy.
 
