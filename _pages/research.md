@@ -5,7 +5,7 @@ title: "Research"
 
 Works in Progress
   : "Religion, Politics, and Mobilization: Evidence from the Age of Empires"
-  : "The Struggle for Female Suffrage in Sweden" (joint with Mattias Folkestad)
+  : "The Struggle for Female Suffrage in Sweden" (with Mattias Folkestad)
 
 Reviews
   : "Bör mainstreamekonomin reformeras?" (in Swedish), *Ekonomisk Debatt* 45 (3): 70--74, 2017. [<i class="fas fa-file-pdf"></i> Paper][bounadi2017], [<i class="fas fa-link"></i> Publication][bounadi2017_pub]
