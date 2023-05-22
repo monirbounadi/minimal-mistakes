@@ -11,7 +11,7 @@ I study problems in political and development economics, with attention to histo
 
 Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy.
 
-[<i class="fas fa-file-pdf"></i> Curriculum Vitae][cv]
+[<i class="fas fa-file-pdf"></i> CV][cv]
 
 ## Contact
 
