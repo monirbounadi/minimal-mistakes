@@ -14,7 +14,7 @@ Working Papers Not Intended for Peer-Reviewed Publication
   : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,* EBA Working Paper, 2018. [<i class="fas fa-link"></i> Publication][bounadi2018_pub], [<i class="fas fa-file-pdf"></i> Paper][bounadi2018].
   
 Citizen Science Projects
-  : "I demokratins namnn – kvinnorna som krävde rösträtt" ["In the name of democracy – The women who demanded the right to vote"] (in Swedish) (with [Mattias Folkestad][mattias_folkestad_website] and the [National Archives of Sweden][national_archives_of_sweden]). [<i class="fas fa-link"></i> Project page][ftp].
+  : "I demokratins namnn – kvinnorna som krävde rösträtt" ["In the name of democracy – the women who demanded the right to vote"] (in Swedish) (with [Mattias Folkestad][mattias_folkestad_website] and the [National Archives of Sweden][national_archives_of_sweden]). [<i class="fas fa-link"></i> Project page][ftp].
   
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
