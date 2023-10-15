@@ -5,7 +5,7 @@ title: "Research"
 
 Works in Progress
   : "Religion, Politics, and Mobilization: Evidence from the Age of Empires"
-  : "The Struggle for Female Suffrage in Sweden" (with [Mattias Folkestad][mattias_folkestad_website])
+  : "The Struggle for Female Suffrage in Sweden" (with [Mattias Folkestad][mattias_folkestad_website]) 
 
 Reviews
   : "Bör mainstreamekonomin reformeras?" ["Should mainstream economics be reformed?"] (in Swedish), *Ekonomisk Debatt* 45 (3): 70--74, 2017. [<i class="fas fa-link"></i> Publication][bounadi2017_pub], [<i class="fas fa-file-pdf"></i> Paper][bounadi2017].
@@ -14,7 +14,7 @@ Working Papers Not Intended for Peer-Reviewed Publication
   : "Weather and Conflicts in Afghanistan", *Expert Group for Aid Studies, Sweden,* EBA Working Paper, 2018. [<i class="fas fa-link"></i> Publication][bounadi2018_pub], [<i class="fas fa-file-pdf"></i> Paper][bounadi2018].
   
 Citizen Science Projects
-  : "I demokratins namnn – kvinnorna som krävde rösträtt" ["In the name of democracy – the women who demanded the right to vote"] (in Swedish) (with [Mattias Folkestad][mattias_folkestad_website] and the [National Archives of Sweden][national_archives_of_sweden]). [<i class="fas fa-link"></i> Project page][ftp]. Presentations: [Library of Östersund, Sweden][https://www.miun.se/medarbetare/gemensamt/medarbetarinfo/2023-2/rostrattsaktivism-hyllas-under-internationella-kvinnodagen/] (2023-03-07); [National Archives of Sweden ][https://www.miun.se/medarbetare/gemensamt/medarbetarinfo/2023-2/rostrattsaktivism-hyllas-under-internationella-kvinnodagen/](https://riksarkivet.se/Nyhetsarkiv?item=118837)] (2023-09-12); and [the Swedish Register-Based Research Summit 2023][https://event.trippus.net/Home/Index/AEAKgIOOKEQR3DlQhgA1Rivt7fN9XeenoXW9klaOYUCNs36oZNvtNzX-boUGr2z05wNgQcUeM6qK/AEAKgIMAYryg5OJ1IONJckxjHQHU3kSdrcdvMGpyVSEhvtbT3KXZ6Mqxq4dBX9iOtANpcc2bD6h4/swe](https://riksarkivet.se/Nyhetsarkiv?item=118837)] (2023-11-13).
+  : "I demokratins namnn – kvinnorna som krävde rösträtt" ["In the name of democracy – the women who demanded the right to vote"] (in Swedish) (with [Mattias Folkestad][mattias_folkestad_website] and the [National Archives of Sweden][national_archives_of_sweden]). [<i class="fas fa-link"></i> Project page][ftp]. Presentations: [Library of Östersund, Sweden](https://www.miun.se/medarbetare/gemensamt/medarbetarinfo/2023-2/rostrattsaktivism-hyllas-under-internationella-kvinnodagen/) (2023-03-07); [National Archives of Sweden ](https://riksarkivet.se/Nyhetsarkiv?item=118837) (2023-09-12); and the [Swedish Register-Based Research Summit 2023](https://event.trippus.net/Home/Index/AEAKgIOOKEQR3DlQhgA1Rivt7fN9XeenoXW9klaOYUCNs36oZNvtNzX-boUGr2z05wNgQcUeM6qK/AEAKgIMAYryg5OJ1IONJckxjHQHU3kSdrcdvMGpyVSEhvtbT3KXZ6Mqxq4dBX9iOtANpcc2bD6h4/swe) (2023-11-13).
   
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
