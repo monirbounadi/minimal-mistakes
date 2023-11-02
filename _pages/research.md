@@ -23,6 +23,3 @@ Citizen Science Projects
 [mattias_folkestad_website]: https://mattiasfolkestad.com/
 [national_archives_of_sweden]: https://riksarkivet.se/startpage
 [ftp]: https://fromthepage.com/riksarkivet/i-demokratins-namn
-
-```html
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7LKbkhHhGTH73LthRwmiV2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
