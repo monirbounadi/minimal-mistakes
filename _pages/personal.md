@@ -5,7 +5,11 @@ title: "Personal"
 
 ### Genealogy
 
-My paternal lineage originates from Rabat, Morocco, while my maternal lineage traces its roots back to Stockholm, Sweden. I have a genealogical record of three generations on my paternal side and approximately sixteen generations on my maternal side. I intend to share my detailed family tree in the future. 
+My paternal lineage originates from the cities of Rabat and Fes in Morocco, while my maternal lineage traces its roots back to Stockholm city and Grangärde parish in Sweden. I have a genealogical record of three generations on my paternal side and approximately sixteen generations on my maternal side. Genetically I belong to the haplogroups [E-M35](https://en.wikipedia.org/wiki/Haplogroup_E-M35) and [HV](https://en.wikipedia.org/wiki/Haplogroup_HV). 
+
+My first name, [Monir](https://en.wikipedia.org/wiki/Munir), hails from Arabic roots, signifying "illuminating" or "enlightening." As for my surname, its origins are shrouded in a bit more mystery, with written records failing to provide clear insight. However, the oral traditions passed down through generations within my family paint an intriguing picture. It is believed that the forefather of my paternal grandfather bore the surname "Bounaga," a name that aptly described his occupation as a camel herder, translating to "on a camel." Over time, either he or his son, my paternal grandfather, opted to adapt the surname to "Bounadi" to better harmonize with the French language.
+
+I have a private website dedicated to my genealogical research, which I believe will be of interest to Swedish genealogists. I plan to share my research here shortly.
 
 ### Movies
 
@@ -13,6 +17,7 @@ My paternal lineage originates from Rabat, Morocco, while my maternal lineage tr
 - [Rashomon (1950)](https://en.wikipedia.org/wiki/Rashomon)
 - [Wild Strawberries (1957)](https://en.wikipedia.org/wiki/Wild_Strawberries_(film))
 - [Vertigo (1958)](https://en.wikipedia.org/wiki/Vertigo_(film))
+- [The Big City (1963)](https://en.wikipedia.org/wiki/Mahanagar)
 - [Taxi Driver (1976)](https://en.wikipedia.org/wiki/Taxi_Driver)
 - [Yi Yi (2000)](https://en.wikipedia.org/wiki/Yi_Yi)
 - [Spirited Away (2001)](https://en.wikipedia.org/wiki/Spirited_Away)
