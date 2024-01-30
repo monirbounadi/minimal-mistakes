@@ -5,13 +5,13 @@ title: "Monir Bounadi"
 
 ## Bio & CV
 
-I am a PhD student at the [Institute for International Economic Studies (IIES)](https://www.iies.su.se/research/researchers/graduate-students/monir-bounadi-1.514368) at Stockholm University. 
+I am a PhD student at the [Institute for International Economic Studies](https://www.su.se/institute-for-international-economic-studies/) (IIES) at Stockholm University. 
 
-I study problems in political and development economics, with attention to historical works and empirical methods.
+My research interests lie within political and development economics with a special focus on historical works and empirical methods.
 
 Before my doctoral studies, I did undergraduate and graduate studies in economics, mathematics, and philosophy.
 
-[<i class="fas fa-file-pdf"></i> CV][cv]
+You can read more about me in my [<i class="fas fa-file-pdf"></i> CV][cv].
 
 ## Contact
 
