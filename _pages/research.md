@@ -4,8 +4,10 @@ title: "Research"
 ---
 
 Works in Progress
-  : "Religion, Politics, and Mobilization: Evidence from the Age of Empires"
-  : "The Struggle for Female Suffrage in Sweden" (with [Mattias Folkestad][mattias_folkestad_website]) 
+  : "Mecca's Tidal Pull: Inter-Ethnic Contact and Nationhood"
+  : "The Missing Date: Social Mobility in Sweden 1880–1930"
+  : "Female Teachers: The Roots of Women's Emancipation" (with [Mattias Folkestad][mattias_folkestad_website]) 
+  : "The Political Mobilization of Women: The First Wave" (with [Mattias Folkestad][mattias_folkestad_website]) 
 
 Popular Articles
   : "Bör mainstreamekonomin reformeras?" ["Should mainstream economics be reformed?"] (in Swedish), *Ekonomisk Debatt* 45 (3): 70--74, 2017. [<i class="fas fa-link"></i> Publication][bounadi2017_pub], [<i class="fas fa-file-pdf"></i> Paper][bounadi2017].
