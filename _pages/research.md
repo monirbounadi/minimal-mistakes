@@ -8,6 +8,8 @@ Work in Progress
   : "The Missing Date: Social Mobility in Sweden 1880–1930"
   : "Female Teachers: The Roots of Women's Emancipation" (with [Mattias Folkestad][mattias_folkestad_website]) 
   : "The Political Mobilization of Women: The First Wave" (with [Mattias Folkestad][mattias_folkestad_website]) 
+  : "Coffee Culture in Early Modern England" (with [Jens Oehlen][jens_oehlen_website])
+  : "The Great Reduction of 1680" (with [Jonatan Riberth][jonatan_riberth_website])
 
 Popular Articles
   : "Bör mainstreamekonomin reformeras?" ["Should mainstream economics be reformed?"] (in Swedish), *Ekonomisk Debatt* 45 (3): 70--74, 2017. [<i class="fas fa-link"></i> Publication][bounadi2017_pub], [<i class="fas fa-file-pdf"></i> Paper][bounadi2017].
@@ -25,5 +27,7 @@ Citizen Science Projects
 [bounadi2018_pub]: https://eba.se/rapporter/weather-and-conflicts-in-afghanistan/7035/
 [bounadi2023_pub]: https://www.liberaldebatt.se/2023/12/de-utmanade-den-manliga-statsmaktens-legitimitet/
 [mattias_folkestad_website]: https://mattiasfolkestad.com/
+[jens_oehlen_website]: https://jensoehlen.github.io/
+[jonatan_riberth_website]: https://www.su.se/english/profiles/jori1775-1.351941
 [national_archives_of_sweden]: https://riksarkivet.se/startpage
 [ftp]: https://fromthepage.com/riksarkivet/i-demokratins-namn
