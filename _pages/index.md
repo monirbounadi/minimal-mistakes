@@ -3,7 +3,7 @@ permalink: /
 title: "Monir Bounadi"
 ---
 
-## Welcome!
+## Bio
 
 I am a PhD student at the [Institute for International Economic Studies (IIES)](https://www.su.se/institute-for-international-economic-studies/), Stockholm University. 
 
