@@ -5,10 +5,8 @@ title: "Research"
 
 Work in Progress
   : "Mecca's Tidal Pull: Inter-Ethnic Contact and Nationhood"
-  : "The Missing Date: Social Mobility in Sweden 1880–1930"
-  : "Female Teachers: The Roots of Women's Emancipation" (with [Mattias Folkestad][mattias_folkestad_website]) 
-  : "The Political Mobilization of Women: The First Wave" (with [Mattias Folkestad][mattias_folkestad_website]) 
-  : "Coffee Culture in Early Modern England" (with [Jens Oehlen][jens_oehlen_website])
+  : "Female Teachers: The Roots of Women's Emancipation" (with [Mattias Folkestad][mattias_folkestad_website])
+  : "Coffeehouses and the Rise of Science" (with [Jens Oehlen][jens_oehlen_website])
   : "The Great Reduction of 1680" (with [Jonatan Riberth][jonatan_riberth_website])
 
 Popular Articles
