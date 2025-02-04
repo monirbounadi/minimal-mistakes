@@ -17,7 +17,7 @@ Pre-Doctoral Research
   : ["Weather and Conflicts in Afghanistan"][bounadi2018], *Expert Group for Aid Studies, Sweden,* EBA Working Paper, 2018.
   
 Citizen Science Projects
-  : ["I demokratins namnn – kvinnorna som krävde rösträtt"][FTP] ["In the name of democracy – the women who demanded the right to vote"] (in Swedish) (*with [Mattias Folkestad][mattias_folkestad_website] and the [National Archives of Sweden][national_archives_of_sweden]*). 
+  : ["I demokratins namnn – kvinnorna som krävde rösträtt"][FTP] ["In the name of democracy – the women who demanded the right to vote"] (in Swedish) (*with [Mattias Folkestad][mattias_folkestad_website] and the [National Archives of Sweden][national_archives_of_sweden]*)
   
 [bounadi2017]: {{ site.url }}/monirbounadi/assets/publications/bounadi2017.pdf
 [bounadi2018]: {{ site.url }}/monirbounadi/assets/publications/bounadi2018.pdf
