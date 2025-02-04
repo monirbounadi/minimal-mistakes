@@ -11,11 +11,9 @@ I am an applied microeconomist specializing in historical economics at the inter
 
 I hold an MSc in Econometrics, an MSc in Mathematics, and a BA in Philosophy, all from Stockholm University. During autumn 2024 and spring 2025, I was a Recognised Student in the Department of Economics at the University of Oxford.
 
+Feel free to contact me at [monir.bounadi@iies.su.se][email].
+
 Here is my [CV][cv].
-
-## Contact
-
-Email: [monir.bounadi@iies.su.se][email]. 
 
 [cv]: {{ site.url }}/monirbounadi/assets/BounadiCV.pdf
 [email]: mailto:monir.bounadi@iies.su.se
